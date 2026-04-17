@@ -18,7 +18,7 @@ def _build_pipeline():
     numeric_transformer = Pipeline(
         steps=[("scaler", StandardScaler())]
     )
-    categorical_transformer = OneHotEncoder(handle_unknown="ignore", sparse=False)
+    categorical_transformer = OneHotEncoder(handle_unknown="ignore", sparse_output=False)
     preprocessor = ColumnTransformer(
         transformers=[
             ("num", numeric_transformer, NUMERIC_FEATURES),
