@@ -1,0 +1,1001 @@
+order_id,date,month,quarter,year,region,category,product,sales_rep,units_sold,unit_price,discount_pct,revenue,cost,profit,profit_margin,customer_rating
+ORD-10060,2022-01-01,1,1,2022,East,Home & Garden,Vacuum,David Brown,13,228.7,0.2,2021.71,1847.28,174.43,8.63,3.6
+ORD-10803,2022-01-01,1,1,2022,East,Electronics,Tablet,Alice Johnson,4,553.37,0.15,1599.24,1417.61,181.63,11.36,5.0
+ORD-10765,2022-01-02,1,1,2022,North,Electronics,Headphones,Alice Johnson,12,158.61,0.05,1536.93,1256.03,280.9,18.28,2.7
+ORD-10122,2022-01-03,1,1,2022,East,Home & Garden,Blender,Eva Martinez,43,56.87,0.15,1766.81,1645.89,120.92,6.84,3.9
+ORD-10753,2022-01-04,1,1,2022,East,Electronics,Headphones,David Brown,14,170.75,0.15,1727.14,1455.1,272.04,15.75,4.8
+ORD-10464,2022-01-04,1,1,2022,West,Electronics,Tablet,Eva Martinez,8,539.14,0.05,3482.84,2240.22,1242.62,35.68,3.9
+ORD-10842,2022-01-04,1,1,2022,West,Sports,Yoga Mat,Eva Martinez,35,32.94,0.1,881.97,653.33,228.64,25.92,4.8
+ORD-10754,2022-01-06,1,1,2022,West,Clothing,Sneakers,Eva Martinez,43,90.4,0.15,2808.5,2296.35,512.15,18.24,5.0
+ORD-10768,2022-01-07,1,1,2022,North,Home & Garden,Plant Pot,David Brown,47,21.54,0.2,688.42,630.91,57.51,8.35,3.8
+ORD-10614,2022-01-08,1,1,2022,West,Clothing,T-Shirt,David Brown,24,26.2,0.0,534.48,333.86,200.62,37.54,5.0
+ORD-10672,2022-01-09,1,1,2022,South,Electronics,Smartphone,Alice Johnson,4,796.08,0.05,2571.34,1809.91,761.43,29.61,2.9
+ORD-10646,2022-01-10,1,1,2022,South,Sports,Water Bottle,Bob Smith,41,18.99,0.2,529.44,472.45,56.99,10.76,4.8
+ORD-10930,2022-01-11,1,1,2022,North,Electronics,Smart Watch,Bob Smith,10,312.88,0.05,2526.51,1680.03,846.48,33.5,4.5
+ORD-10577,2022-01-12,1,1,2022,South,Electronics,Laptop,Alice Johnson,5,1233.59,0.2,4194.21,3570.11,624.1,14.88,4.9
+ORD-10097,2022-01-15,1,1,2022,South,Home & Garden,Coffee Maker,Alice Johnson,36,71.87,0.1,1979.3,1654.55,324.75,16.41,4.3
+ORD-10157,2022-01-17,1,1,2022,South,Home & Garden,Coffee Maker,Bob Smith,48,75.9,0.15,2632.21,2204.93,427.28,16.23,4.1
+ORD-10323,2022-01-18,1,1,2022,East,Food & Beverage,Green Tea,Alice Johnson,33,11.42,0.15,272.28,249.19,23.09,8.48,4.1
+ORD-10261,2022-01-18,1,1,2022,East,Home & Garden,Coffee Maker,David Brown,38,79.77,0.1,2318.91,1998.66,320.25,13.81,4.4
+ORD-10850,2022-01-20,1,1,2022,West,Food & Beverage,Coffee Beans,Bob Smith,45,18.32,0.05,665.7,414.57,251.13,37.72,4.2
+ORD-10772,2022-01-20,1,1,2022,South,Food & Beverage,Green Tea,Carol White,5,11.06,0.05,44.65,30.75,13.9,31.13,4.2
+ORD-10966,2022-01-20,1,1,2022,South,Food & Beverage,Energy Bars,Bob Smith,43,20.41,0.15,634.09,485.84,148.25,23.38,4.0
+ORD-10019,2022-01-20,1,1,2022,North,Home & Garden,Plant Pot,Bob Smith,4,19.61,0.05,63.34,52.99,10.35,16.34,4.0
+ORD-10899,2022-01-26,1,1,2022,West,Sports,Dumbbells,David Brown,21,84.3,0.05,1429.52,886.67,542.85,37.97,3.9
+ORD-10110,2022-01-27,1,1,2022,North,Clothing,Dress,Eva Martinez,2,93.72,0.1,143.39,115.32,28.07,19.58,2.7
+ORD-10769,2022-01-30,1,1,2022,South,Clothing,T-Shirt,Carol White,44,22.36,0.15,710.82,672.19,38.63,5.43,2.1
+ORD-10730,2022-01-31,1,1,2022,East,Clothing,Sneakers,Carol White,26,98.31,0.05,2064.02,1322.91,741.11,35.91,3.0
+ORD-10773,2022-02-01,2,1,2022,East,Sports,Resistance Bands,Bob Smith,37,15.68,0.2,394.51,335.28,59.23,15.01,4.4
+ORD-10757,2022-02-03,2,1,2022,East,Home & Garden,Coffee Maker,Alice Johnson,7,82.16,0.15,415.52,401.86,13.66,3.29,4.0
+ORD-10105,2022-02-03,2,1,2022,South,Home & Garden,Plant Pot,David Brown,5,19.54,0.05,78.89,66.9,11.99,15.2,4.7
+ORD-10623,2022-02-04,2,1,2022,South,Food & Beverage,Protein Powder,Alice Johnson,24,42.82,0.05,829.85,648.47,181.38,21.86,3.4
+ORD-10676,2022-02-04,2,1,2022,South,Sports,Yoga Mat,Eva Martinez,43,34.15,0.05,1185.77,873.09,312.68,26.37,4.4
+ORD-10831,2022-02-04,2,1,2022,North,Food & Beverage,Coffee Beans,Alice Johnson,39,16.89,0.05,531.91,454.57,77.34,14.54,3.5
+ORD-10471,2022-02-05,2,1,2022,South,Electronics,Headphones,Bob Smith,3,147.13,0.05,356.42,292.06,64.36,18.06,3.8
+ORD-10770,2022-02-06,2,1,2022,South,Sports,Dumbbells,David Brown,35,75.9,0.1,2032.22,1573.96,458.26,22.55,5.0
+ORD-10621,2022-02-08,2,1,2022,West,Sports,Resistance Bands,Eva Martinez,19,14.56,0.2,188.12,141.5,46.62,24.78,3.5
+ORD-10811,2022-02-08,2,1,2022,West,Home & Garden,Coffee Maker,Eva Martinez,31,78.45,0.0,2067.16,1285.08,782.08,37.83,3.3
+ORD-10051,2022-02-09,2,1,2022,West,Clothing,Sneakers,David Brown,23,88.46,0.1,1556.45,1351.18,205.27,13.19,3.4
+ORD-10685,2022-02-10,2,1,2022,West,Sports,Resistance Bands,Carol White,35,14.87,0.15,376.03,279.98,96.05,25.54,5.0
+ORD-10191,2022-02-12,2,1,2022,West,Food & Beverage,Protein Powder,Carol White,39,40.22,0.15,1133.3,941.58,191.72,16.92,3.7
+ORD-10602,2022-02-14,2,1,2022,South,Food & Beverage,Olive Oil,Bob Smith,9,13.33,0.2,81.58,60.93,20.65,25.31,4.2
+ORD-10005,2022-02-14,2,1,2022,West,Food & Beverage,Coffee Beans,David Brown,6,17.58,0.2,71.73,58.92,12.81,17.86,3.9
+ORD-10056,2022-02-15,2,1,2022,West,Electronics,Smart Watch,Eva Martinez,11,300.9,0.05,2672.74,1896.06,776.68,29.06,5.0
+ORD-10294,2022-02-16,2,1,2022,West,Home & Garden,Coffee Maker,Eva Martinez,4,78.11,0.0,265.57,217.84,47.73,17.97,3.2
+ORD-10523,2022-02-16,2,1,2022,North,Clothing,Sneakers,Carol White,23,97.58,0.15,1621.54,1550.88,70.66,4.36,3.0
+ORD-10258,2022-02-16,2,1,2022,North,Clothing,T-Shirt,David Brown,34,26.91,0.15,661.04,484.72,176.32,26.67,3.4
+ORD-10417,2022-02-17,2,1,2022,West,Electronics,Headphones,Carol White,13,149.74,0.1,1489.16,1100.74,388.42,26.08,4.2
+ORD-10131,2022-02-17,2,1,2022,East,Electronics,Tablet,Carol White,6,460.87,0.15,1997.87,1463.12,534.75,26.77,3.4
+ORD-10014,2022-02-18,2,1,2022,North,Clothing,Sneakers,David Brown,39,91.66,0.0,3038.53,2062.46,976.07,32.12,3.6
+ORD-10221,2022-02-18,2,1,2022,East,Home & Garden,Coffee Maker,Carol White,28,73.97,0.15,1496.41,1343.48,152.93,10.22,4.0
+ORD-10671,2022-02-20,2,1,2022,North,Clothing,Jacket,Carol White,5,128.75,0.05,519.83,413.96,105.87,20.37,4.7
+ORD-10168,2022-02-22,2,1,2022,East,Food & Beverage,Green Tea,Carol White,7,12.66,0.2,60.26,53.3,6.96,11.55,4.0
+ORD-10263,2022-02-22,2,1,2022,West,Clothing,Dress,Eva Martinez,50,73.49,0.15,2654.83,1945.85,708.98,26.71,4.1
+ORD-10044,2022-02-22,2,1,2022,North,Sports,Running Shoes,Alice Johnson,1,112.44,0.1,86.02,73.56,12.46,14.49,4.4
+ORD-10079,2022-02-23,2,1,2022,East,Clothing,Jacket,Alice Johnson,13,124.14,0.0,1371.75,1113.41,258.34,18.83,4.3
+ORD-10786,2022-02-25,2,1,2022,North,Sports,Water Bottle,Bob Smith,46,21.31,0.2,666.58,664.87,1.71,0.26,3.3
+ORD-10720,2022-02-25,2,1,2022,South,Food & Beverage,Protein Powder,Carol White,1,44.17,0.1,33.79,28.21,5.58,16.51,4.8
+ORD-10746,2022-02-25,2,1,2022,South,Sports,Water Bottle,Alice Johnson,47,18.46,0.2,589.98,453.45,136.53,23.14,4.3
+ORD-10556,2022-02-25,2,1,2022,North,Home & Garden,Vacuum,Eva Martinez,14,219.14,0.15,2216.6,2043.25,173.35,7.82,4.4
+ORD-10973,2022-02-26,2,1,2022,North,Home & Garden,Blender,Carol White,5,58.84,0.15,212.56,199.87,12.69,5.97,4.1
+ORD-10443,2022-02-27,2,1,2022,South,Food & Beverage,Energy Bars,Carol White,12,21.51,0.05,208.43,141.27,67.16,32.22,3.6
+ORD-10032,2022-03-02,3,1,2022,South,Sports,Yoga Mat,David Brown,17,34.6,0.15,424.97,327.66,97.31,22.9,5.0
+ORD-10403,2022-03-03,3,1,2022,West,Food & Beverage,Green Tea,Eva Martinez,50,12.13,0.15,438.2,354.63,83.57,19.07,3.8
+ORD-10192,2022-03-05,3,1,2022,West,Electronics,Tablet,Alice Johnson,9,481.02,0.05,3495.81,2198.48,1297.33,37.11,4.0
+ORD-10266,2022-03-05,3,1,2022,South,Food & Beverage,Protein Powder,Eva Martinez,21,42.61,0.15,646.5,541.45,105.05,16.25,3.3
+ORD-10072,2022-03-05,3,1,2022,South,Sports,Water Bottle,Eva Martinez,45,19.25,0.0,736.31,581.55,154.76,21.02,4.3
+ORD-10158,2022-03-07,3,1,2022,West,Sports,Running Shoes,Eva Martinez,10,113.75,0.0,966.88,671.58,295.3,30.54,3.6
+ORD-10852,2022-03-07,3,1,2022,North,Electronics,Headphones,Eva Martinez,13,160.73,0.2,1420.85,1136.92,283.93,19.98,4.0
+ORD-10434,2022-03-08,3,1,2022,South,Sports,Dumbbells,Alice Johnson,22,78.5,0.0,1467.95,878.25,589.7,40.17,5.0
+ORD-10760,2022-03-11,3,1,2022,West,Food & Beverage,Coffee Beans,Carol White,31,19.1,0.05,478.12,310.5,167.62,35.06,4.3
+ORD-10188,2022-03-11,3,1,2022,West,Sports,Running Shoes,Carol White,10,114.8,0.0,975.8,654.81,320.99,32.9,3.9
+ORD-10036,2022-03-11,3,1,2022,South,Sports,Yoga Mat,Eva Martinez,16,33.19,0.2,361.11,328.66,32.45,8.99,5.0
+ORD-10085,2022-03-12,3,1,2022,East,Electronics,Headphones,David Brown,2,157.66,0.15,227.82,218.25,9.57,4.2,3.5
+ORD-10057,2022-03-13,3,1,2022,East,Food & Beverage,Green Tea,Alice Johnson,47,13.07,0.1,469.93,369.45,100.48,21.38,4.2
+ORD-10025,2022-03-14,3,1,2022,South,Home & Garden,Lamp,Bob Smith,35,43.44,0.05,1227.72,980.16,247.56,20.16,3.6
+ORD-10039,2022-03-16,3,1,2022,North,Sports,Resistance Bands,Eva Martinez,7,15.82,0.0,94.13,67.28,26.85,28.52,2.4
+ORD-10402,2022-03-16,3,1,2022,North,Food & Beverage,Coffee Beans,Alice Johnson,17,18.49,0.05,253.82,159.67,94.15,37.09,3.7
+ORD-10574,2022-03-16,3,1,2022,East,Food & Beverage,Coffee Beans,Carol White,44,21.38,0.1,719.65,584.48,135.17,18.78,3.4
+ORD-10246,2022-03-16,3,1,2022,North,Clothing,Jeans,David Brown,31,63.24,0.15,1416.42,1060.21,356.21,25.15,3.5
+ORD-10100,2022-03-17,3,1,2022,North,Clothing,Sneakers,Eva Martinez,20,96.19,0.0,1635.23,1344.32,290.91,17.79,4.2
+ORD-10571,2022-03-17,3,1,2022,North,Clothing,T-Shirt,Eva Martinez,5,26.05,0.2,88.57,86.53,2.04,2.3,4.3
+ORD-10189,2022-03-17,3,1,2022,East,Sports,Water Bottle,Alice Johnson,4,24.41,0.1,74.69,65.06,9.63,12.89,3.4
+ORD-10460,2022-03-18,3,1,2022,North,Home & Garden,Blender,Eva Martinez,31,60.85,0.0,1603.4,1105.9,497.5,31.03,3.1
+ORD-10104,2022-03-18,3,1,2022,South,Electronics,Headphones,David Brown,12,146.17,0.2,1192.75,1041.87,150.88,12.65,5.0
+ORD-10834,2022-03-19,3,1,2022,West,Home & Garden,Lamp,Carol White,17,46.89,0.05,643.68,523.03,120.65,18.74,4.3
+ORD-10030,2022-03-19,3,1,2022,West,Food & Beverage,Coffee Beans,Alice Johnson,42,17.57,0.2,501.8,492.36,9.44,1.88,4.1
+ORD-10964,2022-03-20,3,1,2022,East,Food & Beverage,Green Tea,David Brown,43,13.93,0.2,407.31,337.03,70.28,17.25,5.0
+ORD-10190,2022-03-20,3,1,2022,North,Food & Beverage,Olive Oil,Eva Martinez,25,14.08,0.15,254.32,216.86,37.46,14.73,3.7
+ORD-10947,2022-03-20,3,1,2022,West,Sports,Dumbbells,Carol White,43,79.65,0.15,2474.53,2048.29,426.24,17.23,3.8
+ORD-10454,2022-03-21,3,1,2022,South,Home & Garden,Plant Pot,Bob Smith,41,19.61,0.0,683.41,534.13,149.28,21.84,5.0
+ORD-10416,2022-03-21,3,1,2022,East,Electronics,Smart Watch,Alice Johnson,3,313.43,0.05,759.28,621.41,137.87,18.16,3.4
+ORD-10181,2022-03-21,3,1,2022,East,Food & Beverage,Energy Bars,Eva Martinez,26,24.07,0.15,452.15,349.15,103.0,22.78,4.4
+ORD-10405,2022-03-22,3,1,2022,South,Clothing,Dress,Carol White,26,75.29,0.2,1331.13,1227.1,104.03,7.82,3.9
+ORD-10020,2022-03-22,3,1,2022,North,Sports,Yoga Mat,Eva Martinez,50,38.11,0.05,1538.69,1001.68,537.01,34.9,4.0
+ORD-10007,2022-03-23,3,1,2022,South,Electronics,Headphones,Carol White,8,130.21,0.1,796.89,554.73,242.16,30.39,3.6
+ORD-10161,2022-03-24,3,1,2022,East,Food & Beverage,Protein Powder,Alice Johnson,9,47.47,0.1,326.83,266.96,59.87,18.32,5.0
+ORD-10223,2022-03-26,3,1,2022,West,Electronics,Headphones,Eva Martinez,14,152.75,0.05,1726.84,1302.55,424.29,24.57,3.2
+ORD-10372,2022-03-26,3,1,2022,North,Clothing,T-Shirt,Alice Johnson,18,26.93,0.05,391.43,294.49,96.94,24.77,3.4
+ORD-10988,2022-03-26,3,1,2022,North,Clothing,Sneakers,Eva Martinez,46,99.81,0.05,3707.44,3073.35,634.09,17.1,4.6
+ORD-10197,2022-03-28,3,1,2022,East,Food & Beverage,Energy Bars,Carol White,9,25.63,0.2,156.86,119.65,37.21,23.72,3.9
+ORD-10397,2022-03-28,3,1,2022,South,Food & Beverage,Olive Oil,Eva Martinez,47,12.58,0.2,402.06,329.32,72.74,18.09,4.9
+ORD-10353,2022-03-29,3,1,2022,North,Clothing,T-Shirt,Bob Smith,42,24.57,0.2,701.72,525.11,176.61,25.17,5.0
+ORD-10357,2022-03-29,3,1,2022,North,Clothing,T-Shirt,Carol White,22,26.2,0.15,416.45,378.61,37.84,9.09,4.9
+ORD-10088,2022-03-30,3,1,2022,East,Sports,Dumbbells,David Brown,37,88.06,0.2,2215.59,2064.53,151.06,6.82,5.0
+ORD-10376,2022-03-31,3,1,2022,West,Electronics,Smartphone,Bob Smith,5,760.97,0.1,2910.71,2557.66,353.05,12.13,4.7
+ORD-10141,2022-04-03,4,2,2022,East,Home & Garden,Lamp,Bob Smith,13,53.43,0.05,593.87,456.56,137.31,23.12,3.0
+ORD-10130,2022-04-03,4,2,2022,West,Electronics,Laptop,David Brown,2,1144.38,0.1,1853.9,1557.92,295.98,15.97,4.0
+ORD-10390,2022-04-04,4,2,2022,North,Electronics,Smartphone,David Brown,1,847.46,0.05,724.58,524.35,200.23,27.63,3.0
+ORD-10903,2022-04-05,4,2,2022,East,Electronics,Smart Watch,Bob Smith,10,334.41,0.2,2407.75,1820.62,587.13,24.39,4.6
+ORD-10166,2022-04-06,4,2,2022,West,Electronics,Tablet,Bob Smith,9,501.9,0.0,4065.39,2788.37,1277.02,31.41,3.3
+ORD-10242,2022-04-06,4,2,2022,South,Food & Beverage,Olive Oil,Bob Smith,11,12.8,0.2,101.38,90.69,10.69,10.54,3.2
+ORD-10031,2022-04-06,4,2,2022,South,Clothing,Jeans,David Brown,31,53.85,0.05,1427.29,1123.36,303.93,21.29,3.1
+ORD-10195,2022-04-07,4,2,2022,West,Home & Garden,Plant Pot,Eva Martinez,10,19.1,0.1,154.71,98.61,56.1,36.26,4.3
+ORD-10708,2022-04-08,4,2,2022,East,Electronics,Smart Watch,David Brown,2,330.94,0.0,595.69,452.97,142.72,23.96,4.0
+ORD-10463,2022-04-09,4,2,2022,North,Sports,Resistance Bands,Eva Martinez,32,15.31,0.05,418.88,250.3,168.58,40.25,4.2
+ORD-10103,2022-04-12,4,2,2022,South,Clothing,T-Shirt,Alice Johnson,11,24.36,0.05,229.11,143.3,85.81,37.45,4.3
+ORD-10934,2022-04-12,4,2,2022,South,Food & Beverage,Energy Bars,Carol White,45,19.76,0.2,640.22,477.52,162.7,25.41,3.9
+ORD-10200,2022-04-14,4,2,2022,North,Home & Garden,Blender,Bob Smith,39,53.15,0.15,1585.73,1100.37,485.36,30.61,3.7
+ORD-10375,2022-04-15,4,2,2022,South,Home & Garden,Coffee Maker,David Brown,17,67.96,0.1,935.81,776.88,158.93,16.98,3.1
+ORD-10838,2022-04-19,4,2,2022,West,Home & Garden,Coffee Maker,Alice Johnson,5,79.56,0.0,358.02,244.36,113.66,31.75,4.9
+ORD-10183,2022-04-19,4,2,2022,South,Sports,Resistance Bands,David Brown,34,14.41,0.0,440.95,283.75,157.2,35.65,3.8
+ORD-10762,2022-04-22,4,2,2022,North,Sports,Resistance Bands,Carol White,28,15.46,0.2,311.67,289.84,21.83,7.0,5.0
+ORD-10156,2022-04-23,4,2,2022,North,Clothing,Jacket,Carol White,13,131.2,0.05,1458.29,1053.67,404.62,27.75,4.5
+ORD-10721,2022-04-24,4,2,2022,East,Sports,Water Bottle,Alice Johnson,22,22.2,0.05,417.58,316.48,101.1,24.21,3.0
+ORD-10046,2022-04-25,4,2,2022,North,Clothing,Dress,Alice Johnson,24,81.05,0.2,1400.54,1187.55,212.99,15.21,4.0
+ORD-10928,2022-04-25,4,2,2022,North,Electronics,Headphones,David Brown,1,168.47,0.05,144.04,87.87,56.17,39.0,3.7
+ORD-10819,2022-04-25,4,2,2022,South,Food & Beverage,Protein Powder,David Brown,24,47.16,0.05,967.72,625.06,342.66,35.41,3.2
+ORD-10300,2022-04-26,4,2,2022,North,Sports,Resistance Bands,Alice Johnson,16,16.35,0.05,223.67,134.32,89.35,39.95,3.3
+ORD-10119,2022-04-27,4,2,2022,West,Electronics,Smartphone,David Brown,3,773.53,0.2,1670.82,1487.69,183.13,10.96,4.8
+ORD-10517,2022-04-27,4,2,2022,North,Sports,Dumbbells,Eva Martinez,13,81.97,0.1,863.14,710.02,153.12,17.74,5.0
+ORD-10082,2022-04-28,4,2,2022,South,Home & Garden,Coffee Maker,Eva Martinez,2,74.68,0.1,120.98,91.88,29.1,24.05,4.3
+ORD-10148,2022-04-29,4,2,2022,North,Clothing,Dress,Bob Smith,25,87.78,0.15,1678.79,1260.09,418.7,24.94,4.3
+ORD-10514,2022-04-29,4,2,2022,West,Sports,Water Bottle,Alice Johnson,36,20.61,0.1,600.99,441.38,159.61,26.56,3.3
+ORD-10823,2022-04-29,4,2,2022,North,Clothing,Jeans,David Brown,31,62.41,0.1,1567.12,1151.64,415.48,26.51,4.7
+ORD-10902,2022-04-30,4,2,2022,East,Electronics,Headphones,Eva Martinez,14,150.12,0.05,1796.94,1238.3,558.64,31.09,2.8
+ORD-10410,2022-05-01,5,2,2022,North,Home & Garden,Lamp,Carol White,34,46.03,0.0,1408.52,864.81,543.71,38.6,4.8
+ORD-10501,2022-05-01,5,2,2022,West,Electronics,Smart Watch,Eva Martinez,10,300.89,0.0,2708.01,1788.62,919.39,33.95,3.3
+ORD-10861,2022-05-01,5,2,2022,North,Food & Beverage,Green Tea,Eva Martinez,33,13.07,0.05,368.77,255.7,113.07,30.66,4.3
+ORD-10949,2022-05-02,5,2,2022,West,Sports,Running Shoes,David Brown,8,113.09,0.15,692.11,458.87,233.24,33.7,3.9
+ORD-10101,2022-05-02,5,2,2022,West,Food & Beverage,Olive Oil,Eva Martinez,15,14.76,0.2,159.41,127.54,31.87,19.99,4.9
+ORD-10917,2022-05-03,5,2,2022,East,Food & Beverage,Olive Oil,Alice Johnson,17,14.93,0.05,217.01,156.43,60.58,27.92,4.2
+ORD-10636,2022-05-03,5,2,2022,North,Sports,Resistance Bands,Alice Johnson,49,14.89,0.2,525.32,504.6,20.72,3.94,4.0
+ORD-10542,2022-05-04,5,2,2022,West,Clothing,Jeans,Bob Smith,46,61.15,0.1,2278.45,1467.08,811.37,35.61,4.3
+ORD-10975,2022-05-04,5,2,2022,East,Sports,Yoga Mat,Bob Smith,39,35.09,0.0,1231.66,895.88,335.78,27.26,4.7
+ORD-10887,2022-05-06,5,2,2022,West,Food & Beverage,Olive Oil,Carol White,29,13.48,0.2,281.46,224.24,57.22,20.33,3.3
+ORD-10749,2022-05-07,5,2,2022,North,Electronics,Headphones,Carol White,2,165.56,0.2,238.41,212.4,26.01,10.91,4.6
+ORD-10396,2022-05-07,5,2,2022,West,Home & Garden,Lamp,Carol White,9,45.61,0.05,350.97,227.98,122.99,35.04,3.0
+ORD-10683,2022-05-09,5,2,2022,West,Clothing,T-Shirt,Eva Martinez,42,24.97,0.1,849.48,693.33,156.15,18.38,3.3
+ORD-10472,2022-05-10,5,2,2022,North,Sports,Yoga Mat,David Brown,13,40.14,0.05,446.16,347.96,98.2,22.01,3.2
+ORD-10098,2022-05-10,5,2,2022,West,Electronics,Laptop,Eva Martinez,3,1146.97,0.15,2632.3,2049.9,582.4,22.13,4.2
+ORD-10425,2022-05-14,5,2,2022,South,Home & Garden,Plant Pot,Carol White,26,18.41,0.1,387.71,269.78,117.93,30.42,3.6
+ORD-10715,2022-05-14,5,2,2022,South,Sports,Resistance Bands,Bob Smith,32,14.47,0.15,354.23,291.92,62.31,17.59,4.7
+ORD-10287,2022-05-17,5,2,2022,West,Clothing,Jeans,Eva Martinez,24,62.49,0.15,1147.32,960.43,186.89,16.29,2.6
+ORD-10612,2022-05-18,5,2,2022,East,Sports,Dumbbells,Alice Johnson,19,87.18,0.2,1192.62,1118.67,73.95,6.2,4.1
+ORD-10544,2022-05-18,5,2,2022,West,Electronics,Smart Watch,Alice Johnson,9,296.11,0.15,2038.72,1779.58,259.14,12.71,4.0
+ORD-10576,2022-05-20,5,2,2022,West,Food & Beverage,Green Tea,Bob Smith,20,11.62,0.1,188.24,160.7,27.54,14.63,3.1
+ORD-10912,2022-05-21,5,2,2022,South,Clothing,Jeans,Carol White,36,57.48,0.15,1583.0,1052.12,530.88,33.54,4.4
+ORD-10235,2022-05-23,5,2,2022,South,Sports,Yoga Mat,Carol White,36,32.79,0.2,849.92,677.32,172.6,20.31,2.6
+ORD-10012,2022-05-23,5,2,2022,South,Food & Beverage,Olive Oil,Carol White,48,12.94,0.2,447.21,363.78,83.43,18.66,4.3
+ORD-10210,2022-05-23,5,2,2022,West,Sports,Resistance Bands,Alice Johnson,6,16.55,0.0,89.37,54.73,34.64,38.76,5.0
+ORD-10846,2022-05-24,5,2,2022,North,Clothing,Jacket,Eva Martinez,4,131.49,0.15,402.36,303.88,98.48,24.48,3.2
+ORD-10723,2022-05-25,5,2,2022,North,Sports,Resistance Bands,Eva Martinez,3,15.33,0.1,37.25,24.56,12.69,34.07,4.4
+ORD-10249,2022-05-25,5,2,2022,North,Electronics,Tablet,David Brown,14,502.02,0.2,5060.36,4101.89,958.47,18.94,3.2
+ORD-10855,2022-05-25,5,2,2022,West,Clothing,T-Shirt,Eva Martinez,11,26.38,0.15,221.99,159.23,62.76,28.27,4.0
+ORD-10107,2022-05-26,5,2,2022,North,Electronics,Smartphone,Carol White,5,826.76,0.2,2976.34,2828.51,147.83,4.97,4.7
+ORD-10927,2022-05-26,5,2,2022,South,Home & Garden,Vacuum,Bob Smith,3,199.51,0.0,538.68,350.12,188.56,35.0,3.3
+ORD-10922,2022-05-28,5,2,2022,North,Clothing,Dress,Carol White,24,84.67,0.15,1554.54,1183.48,371.06,23.87,3.4
+ORD-10127,2022-05-28,5,2,2022,West,Clothing,Jacket,David Brown,13,110.88,0.1,1167.57,818.32,349.25,29.91,3.7
+ORD-10734,2022-05-29,5,2,2022,South,Home & Garden,Coffee Maker,Eva Martinez,35,66.99,0.0,2110.18,1258.67,851.51,40.35,4.1
+ORD-10821,2022-05-29,5,2,2022,South,Sports,Water Bottle,David Brown,16,18.92,0.15,231.58,195.31,36.27,15.66,4.4
+ORD-10735,2022-05-30,5,2,2022,North,Home & Garden,Lamp,David Brown,20,50.08,0.15,766.22,650.16,116.06,15.15,3.7
+ORD-10674,2022-05-30,5,2,2022,North,Home & Garden,Lamp,Alice Johnson,35,44.02,0.15,1178.64,826.31,352.33,29.89,3.9
+ORD-10918,2022-05-30,5,2,2022,East,Sports,Dumbbells,Carol White,11,82.97,0.0,821.4,506.11,315.29,38.38,3.9
+ORD-10271,2022-05-30,5,2,2022,East,Electronics,Tablet,Alice Johnson,6,564.57,0.15,2591.38,2138.12,453.26,17.49,5.0
+ORD-10590,2022-06-02,6,2,2022,East,Sports,Dumbbells,Eva Martinez,47,88.79,0.1,3380.24,2198.31,1181.93,34.97,5.0
+ORD-10437,2022-06-02,6,2,2022,North,Food & Beverage,Olive Oil,Eva Martinez,16,14.68,0.1,190.25,140.88,49.37,25.95,5.0
+ORD-10211,2022-06-03,6,2,2022,West,Electronics,Tablet,Bob Smith,5,493.78,0.0,2222.01,1258.03,963.98,43.38,4.5
+ORD-10475,2022-06-03,6,2,2022,South,Food & Beverage,Olive Oil,Eva Martinez,49,13.14,0.0,579.47,441.03,138.44,23.89,4.0
+ORD-10321,2022-06-04,6,2,2022,North,Clothing,Dress,David Brown,24,82.91,0.0,1790.86,1240.8,550.06,30.71,2.7
+ORD-10356,2022-06-04,6,2,2022,East,Electronics,Headphones,Alice Johnson,5,160.5,0.15,613.91,549.0,64.91,10.57,4.4
+ORD-10503,2022-06-04,6,2,2022,South,Clothing,T-Shirt,David Brown,37,24.81,0.15,702.25,485.28,216.97,30.9,4.5
+ORD-10395,2022-06-05,6,2,2022,West,Food & Beverage,Energy Bars,Bob Smith,6,22.47,0.0,121.34,71.19,50.15,41.33,3.9
+ORD-10018,2022-06-06,6,2,2022,East,Clothing,Dress,Eva Martinez,1,88.92,0.2,64.02,50.22,13.8,21.56,2.8
+ORD-10071,2022-06-06,6,2,2022,South,Electronics,Headphones,David Brown,6,131.05,0.2,566.14,466.42,99.72,17.61,4.3
+ORD-10515,2022-06-06,6,2,2022,South,Electronics,Tablet,David Brown,11,468.89,0.0,4642.01,3262.28,1379.73,29.72,2.6
+ORD-10914,2022-06-07,6,2,2022,East,Home & Garden,Lamp,Alice Johnson,42,49.26,0.1,1675.83,1207.07,468.76,27.97,4.0
+ORD-10806,2022-06-07,6,2,2022,East,Clothing,Sneakers,Alice Johnson,5,103.37,0.0,465.17,273.31,191.86,41.25,3.7
+ORD-10049,2022-06-08,6,2,2022,South,Clothing,Sneakers,David Brown,2,85.52,0.05,146.24,110.72,35.52,24.29,3.7
+ORD-10169,2022-06-08,6,2,2022,West,Clothing,Jacket,Carol White,14,122.48,0.2,1234.6,983.41,251.19,20.35,3.8
+ORD-10275,2022-06-11,6,2,2022,West,Sports,Water Bottle,Bob Smith,49,20.09,0.1,797.37,555.44,241.93,30.34,3.9
+ORD-10624,2022-06-11,6,2,2022,North,Home & Garden,Lamp,Carol White,43,47.8,0.15,1572.38,1194.37,378.01,24.04,3.0
+ORD-10387,2022-06-11,6,2,2022,West,Sports,Yoga Mat,David Brown,13,36.09,0.05,401.14,317.36,83.78,20.89,2.8
+ORD-10450,2022-06-11,6,2,2022,West,Sports,Running Shoes,Bob Smith,12,112.03,0.2,967.94,858.66,109.28,11.29,3.9
+ORD-10700,2022-06-11,6,2,2022,West,Home & Garden,Plant Pot,Eva Martinez,21,18.95,0.1,322.34,231.79,90.55,28.09,4.4
+ORD-10068,2022-06-12,6,2,2022,West,Sports,Running Shoes,Bob Smith,14,105.69,0.1,1198.52,966.46,232.06,19.36,3.8
+ORD-10250,2022-06-13,6,2,2022,East,Food & Beverage,Green Tea,Bob Smith,49,13.81,0.05,578.57,405.78,172.79,29.87,5.0
+ORD-10206,2022-06-14,6,2,2022,East,Sports,Resistance Bands,Bob Smith,28,15.23,0.0,383.8,293.94,89.86,23.41,4.7
+ORD-10113,2022-06-14,6,2,2022,East,Sports,Water Bottle,Carol White,43,22.07,0.15,725.99,628.92,97.07,13.37,3.3
+ORD-10983,2022-06-14,6,2,2022,West,Home & Garden,Lamp,Alice Johnson,18,44.56,0.0,721.87,533.09,188.78,26.15,3.7
+ORD-10758,2022-06-15,6,2,2022,East,Food & Beverage,Olive Oil,Eva Martinez,36,16.57,0.05,510.02,413.54,96.48,18.92,4.3
+ORD-10488,2022-06-16,6,2,2022,South,Clothing,Sneakers,Bob Smith,18,83.57,0.15,1150.76,906.55,244.21,21.22,2.4
+ORD-10923,2022-06-16,6,2,2022,North,Clothing,Sneakers,Eva Martinez,15,100.48,0.05,1288.66,993.28,295.38,22.92,3.3
+ORD-10240,2022-06-18,6,2,2022,South,Home & Garden,Vacuum,Carol White,9,188.78,0.1,1376.21,1136.96,239.25,17.38,3.3
+ORD-10541,2022-06-18,6,2,2022,West,Clothing,Jeans,Alice Johnson,17,59.04,0.2,722.65,541.17,181.48,25.11,5.0
+ORD-10511,2022-06-18,6,2,2022,West,Electronics,Smartphone,Bob Smith,2,799.03,0.05,1366.34,1033.65,332.69,24.35,5.0
+ORD-10427,2022-06-18,6,2,2022,West,Sports,Running Shoes,David Brown,2,117.81,0.2,169.65,134.69,34.96,20.61,3.8
+ORD-10457,2022-06-20,6,2,2022,West,Sports,Water Bottle,Carol White,35,19.9,0.15,532.82,362.38,170.44,31.99,4.3
+ORD-10822,2022-06-21,6,2,2022,South,Food & Beverage,Green Tea,Alice Johnson,42,10.79,0.1,367.08,295.06,72.02,19.62,4.3
+ORD-10373,2022-06-22,6,2,2022,West,Food & Beverage,Energy Bars,Eva Martinez,33,22.21,0.0,659.64,450.42,209.22,31.72,3.3
+ORD-10062,2022-06-23,6,2,2022,North,Home & Garden,Blender,Eva Martinez,22,59.44,0.0,1176.91,867.89,309.02,26.26,5.0
+ORD-10660,2022-06-24,6,2,2022,North,Electronics,Tablet,Carol White,14,526.49,0.15,5638.71,4374.15,1264.56,22.43,4.5
+ORD-10872,2022-06-25,6,2,2022,East,Clothing,T-Shirt,Eva Martinez,11,26.22,0.2,207.66,196.45,11.21,5.4,4.4
+ORD-10805,2022-06-27,6,2,2022,West,Clothing,Sneakers,Eva Martinez,25,88.69,0.1,1795.97,1481.11,314.86,17.53,2.9
+ORD-10640,2022-06-28,6,2,2022,West,Electronics,Smart Watch,David Brown,6,302.0,0.0,1630.8,910.28,720.52,44.18,3.7
+ORD-10522,2022-06-28,6,2,2022,North,Home & Garden,Plant Pot,Carol White,28,20.82,0.0,524.66,302.56,222.1,42.33,4.4
+ORD-10431,2022-06-28,6,2,2022,North,Sports,Water Bottle,Eva Martinez,48,22.62,0.2,781.75,597.14,184.61,23.61,5.0
+ORD-10896,2022-06-29,6,2,2022,South,Clothing,Sneakers,Alice Johnson,3,84.82,0.1,206.11,156.47,49.64,24.08,4.5
+ORD-10277,2022-06-29,6,2,2022,West,Clothing,Jacket,David Brown,13,122.03,0.15,1213.59,852.31,361.28,29.77,3.8
+ORD-10622,2022-06-29,6,2,2022,West,Sports,Yoga Mat,Bob Smith,43,33.86,0.2,1048.31,811.27,237.04,22.61,3.3
+ORD-10977,2022-06-29,6,2,2022,South,Home & Garden,Lamp,David Brown,17,41.48,0.2,507.72,360.47,147.25,29.0,5.0
+ORD-10305,2022-06-29,6,2,2022,West,Food & Beverage,Energy Bars,Alice Johnson,23,22.72,0.15,399.76,343.41,56.35,14.1,4.1
+ORD-10111,2022-06-29,6,2,2022,West,Food & Beverage,Energy Bars,Carol White,12,22.75,0.2,196.56,160.3,36.26,18.45,3.1
+ORD-10950,2022-07-01,7,3,2022,East,Clothing,Jeans,David Brown,9,68.3,0.1,553.23,395.34,157.89,28.54,3.8
+ORD-10558,2022-07-01,7,3,2022,North,Clothing,Sneakers,Eva Martinez,8,105.86,0.15,719.85,430.32,289.53,40.22,4.1
+ORD-10633,2022-07-02,7,3,2022,West,Home & Garden,Plant Pot,Bob Smith,37,19.89,0.1,662.34,394.87,267.47,40.38,3.4
+ORD-10946,2022-07-03,7,3,2022,West,Food & Beverage,Green Tea,Bob Smith,20,11.74,0.2,187.84,146.67,41.17,21.92,4.1
+ORD-10324,2022-07-03,7,3,2022,North,Electronics,Smart Watch,Bob Smith,4,311.36,0.05,1183.17,777.1,406.07,34.32,4.4
+ORD-10504,2022-07-04,7,3,2022,North,Sports,Running Shoes,Bob Smith,6,121.56,0.0,729.36,365.37,363.99,49.91,3.4
+ORD-10829,2022-07-04,7,3,2022,East,Food & Beverage,Coffee Beans,Alice Johnson,5,18.8,0.0,94.0,54.73,39.27,41.78,4.6
+ORD-10644,2022-07-04,7,3,2022,South,Food & Beverage,Protein Powder,Alice Johnson,47,40.39,0.1,1708.5,1254.45,454.05,26.58,2.5
+ORD-10172,2022-07-05,7,3,2022,South,Food & Beverage,Energy Bars,Alice Johnson,10,20.41,0.0,204.1,105.8,98.3,48.16,4.0
+ORD-10580,2022-07-05,7,3,2022,North,Food & Beverage,Energy Bars,Eva Martinez,5,20.21,0.1,90.95,64.1,26.85,29.52,5.0
+ORD-10201,2022-07-05,7,3,2022,South,Sports,Yoga Mat,David Brown,24,33.26,0.05,758.33,553.91,204.42,26.96,3.9
+ORD-10606,2022-07-06,7,3,2022,East,Clothing,T-Shirt,David Brown,39,26.51,0.2,827.11,531.18,295.93,35.78,4.8
+ORD-10239,2022-07-06,7,3,2022,South,Sports,Resistance Bands,Alice Johnson,8,16.44,0.2,105.22,69.78,35.44,33.68,5.0
+ORD-10656,2022-07-08,7,3,2022,North,Clothing,Sneakers,Carol White,48,101.07,0.0,4851.36,2629.99,2221.37,45.79,4.2
+ORD-10283,2022-07-09,7,3,2022,South,Sports,Running Shoes,Bob Smith,1,93.85,0.1,84.47,54.12,30.35,35.93,3.3
+ORD-10281,2022-07-10,7,3,2022,North,Home & Garden,Plant Pot,Eva Martinez,44,21.91,0.05,915.84,515.86,399.98,43.67,3.7
+ORD-10686,2022-07-11,7,3,2022,East,Home & Garden,Lamp,Carol White,39,46.1,0.2,1438.32,956.61,481.71,33.49,3.1
+ORD-10642,2022-07-11,7,3,2022,East,Clothing,T-Shirt,David Brown,40,26.42,0.1,951.12,605.74,345.38,36.31,3.1
+ORD-10445,2022-07-12,7,3,2022,West,Food & Beverage,Green Tea,Bob Smith,32,12.49,0.0,399.68,207.05,192.63,48.2,4.2
+ORD-10462,2022-07-14,7,3,2022,West,Food & Beverage,Olive Oil,Carol White,43,14.84,0.1,574.31,357.02,217.29,37.83,2.9
+ORD-10029,2022-07-14,7,3,2022,West,Clothing,Jeans,Bob Smith,18,60.99,0.15,933.15,603.76,329.39,35.3,4.8
+ORD-10697,2022-07-14,7,3,2022,South,Food & Beverage,Protein Powder,Eva Martinez,41,41.97,0.05,1634.73,1052.57,582.16,35.61,4.0
+ORD-10091,2022-07-15,7,3,2022,North,Clothing,Jeans,David Brown,36,59.63,0.05,2039.35,1369.84,669.51,32.83,4.2
+ORD-10692,2022-07-16,7,3,2022,North,Electronics,Smart Watch,David Brown,11,326.69,0.15,3054.55,2174.71,879.84,28.8,4.3
+ORD-10095,2022-07-17,7,3,2022,East,Electronics,Smart Watch,Bob Smith,4,322.63,0.05,1225.99,835.9,390.09,31.82,4.5
+ORD-10255,2022-07-19,7,3,2022,East,Food & Beverage,Green Tea,Alice Johnson,25,13.38,0.2,267.6,197.38,70.22,26.24,4.2
+ORD-10502,2022-07-19,7,3,2022,North,Sports,Resistance Bands,Carol White,27,16.3,0.0,440.1,296.7,143.4,32.58,4.1
+ORD-10716,2022-07-20,7,3,2022,South,Clothing,Jacket,Carol White,13,118.9,0.15,1313.85,872.83,441.02,33.57,3.7
+ORD-10362,2022-07-22,7,3,2022,West,Food & Beverage,Energy Bars,David Brown,1,22.19,0.05,21.08,12.01,9.07,43.03,3.8
+ORD-10186,2022-07-22,7,3,2022,South,Food & Beverage,Protein Powder,Alice Johnson,12,45.85,0.15,467.67,326.15,141.52,30.26,4.8
+ORD-10507,2022-07-24,7,3,2022,East,Electronics,Tablet,Eva Martinez,4,597.74,0.0,2390.96,1519.1,871.86,36.46,3.9
+ORD-10868,2022-07-24,7,3,2022,West,Clothing,Jacket,David Brown,10,113.68,0.15,966.28,580.75,385.53,39.9,3.4
+ORD-10080,2022-07-24,7,3,2022,North,Food & Beverage,Protein Powder,Bob Smith,9,44.95,0.15,343.87,256.44,87.43,25.43,4.7
+ORD-10484,2022-07-25,7,3,2022,North,Clothing,Jacket,David Brown,1,125.75,0.1,113.17,80.6,32.57,28.78,3.0
+ORD-10625,2022-07-25,7,3,2022,North,Electronics,Laptop,Eva Martinez,3,1280.85,0.2,3074.04,2624.47,449.57,14.62,4.8
+ORD-10219,2022-07-26,7,3,2022,North,Clothing,Jacket,Carol White,15,115.27,0.1,1556.14,1042.75,513.39,32.99,4.0
+ORD-10447,2022-07-26,7,3,2022,South,Home & Garden,Vacuum,Carol White,1,203.13,0.0,203.13,107.57,95.56,47.04,4.3
+ORD-10767,2022-07-26,7,3,2022,East,Home & Garden,Coffee Maker,Carol White,20,80.58,0.2,1289.28,983.07,306.21,23.75,3.1
+ORD-10518,2022-07-26,7,3,2022,East,Sports,Running Shoes,Bob Smith,1,113.58,0.2,90.86,68.07,22.79,25.08,3.2
+ORD-10741,2022-07-27,7,3,2022,South,Electronics,Smartphone,David Brown,5,825.62,0.15,3508.89,2631.96,876.93,24.99,3.8
+ORD-10853,2022-07-27,7,3,2022,West,Home & Garden,Lamp,Carol White,8,46.51,0.2,297.66,226.66,71.0,23.85,5.0
+ORD-10038,2022-07-29,7,3,2022,East,Clothing,T-Shirt,David Brown,9,27.62,0.1,223.72,147.02,76.7,34.28,3.8
+ORD-10890,2022-07-29,7,3,2022,North,Home & Garden,Lamp,Eva Martinez,9,43.93,0.15,336.06,225.1,110.96,33.02,4.0
+ORD-10465,2022-07-31,7,3,2022,South,Home & Garden,Coffee Maker,David Brown,8,69.27,0.1,498.74,364.07,134.67,27.0,5.0
+ORD-10635,2022-07-31,7,3,2022,South,Clothing,Sneakers,Eva Martinez,23,90.17,0.05,1970.21,1360.04,610.17,30.97,4.3
+ORD-10428,2022-08-01,8,3,2022,West,Home & Garden,Lamp,Carol White,8,43.13,0.0,345.04,183.4,161.64,46.85,4.1
+ORD-10519,2022-08-01,8,3,2022,West,Home & Garden,Vacuum,Alice Johnson,1,202.24,0.0,202.24,137.8,64.44,31.86,4.5
+ORD-10694,2022-08-02,8,3,2022,West,Electronics,Headphones,Alice Johnson,6,150.24,0.2,721.15,584.76,136.39,18.91,3.7
+ORD-10641,2022-08-04,8,3,2022,West,Food & Beverage,Coffee Beans,Carol White,24,18.64,0.2,357.89,300.79,57.1,15.95,4.9
+ORD-10048,2022-08-04,8,3,2022,South,Electronics,Tablet,Eva Martinez,15,482.03,0.15,6145.88,5023.48,1122.4,18.26,4.3
+ORD-10722,2022-08-05,8,3,2022,South,Food & Beverage,Olive Oil,Carol White,36,13.57,0.15,415.24,305.13,110.11,26.52,3.6
+ORD-10199,2022-08-08,8,3,2022,East,Sports,Dumbbells,Bob Smith,9,87.5,0.05,748.12,405.9,342.22,45.74,4.8
+ORD-10704,2022-08-08,8,3,2022,East,Electronics,Tablet,Eva Martinez,9,541.13,0.2,3896.14,2990.94,905.2,23.23,4.0
+ORD-10707,2022-08-11,8,3,2022,North,Home & Garden,Lamp,Bob Smith,32,45.73,0.2,1170.69,971.53,199.16,17.01,4.8
+ORD-10679,2022-08-12,8,3,2022,North,Clothing,Jeans,Carol White,1,58.34,0.05,55.42,38.44,16.98,30.64,4.0
+ORD-10024,2022-08-14,8,3,2022,North,Electronics,Laptop,Bob Smith,1,1281.65,0.0,1281.65,861.18,420.47,32.81,2.6
+ORD-10159,2022-08-15,8,3,2022,North,Food & Beverage,Green Tea,David Brown,42,12.8,0.0,537.6,275.34,262.26,48.78,3.7
+ORD-10315,2022-08-15,8,3,2022,South,Electronics,Tablet,Eva Martinez,15,434.8,0.2,5217.6,4016.43,1201.17,23.02,5.0
+ORD-10207,2022-08-16,8,3,2022,West,Home & Garden,Coffee Maker,David Brown,4,76.25,0.15,259.25,183.12,76.13,29.37,3.6
+ORD-10875,2022-08-16,8,3,2022,South,Food & Beverage,Coffee Beans,David Brown,3,14.79,0.0,44.37,30.98,13.39,30.18,4.3
+ORD-10298,2022-08-17,8,3,2022,North,Electronics,Tablet,David Brown,11,517.92,0.2,4557.7,3331.82,1225.88,26.9,3.5
+ORD-10269,2022-08-19,8,3,2022,East,Home & Garden,Vacuum,David Brown,6,231.07,0.15,1178.46,789.93,388.53,32.97,3.7
+ORD-10740,2022-08-20,8,3,2022,North,Sports,Yoga Mat,Carol White,27,38.08,0.05,976.75,666.73,310.02,31.74,3.6
+ORD-10468,2022-08-20,8,3,2022,East,Food & Beverage,Coffee Beans,Bob Smith,49,18.79,0.0,920.71,476.14,444.57,48.29,4.3
+ORD-10052,2022-08-22,8,3,2022,South,Electronics,Smartphone,David Brown,3,753.87,0.1,2035.45,1521.77,513.68,25.24,4.3
+ORD-10599,2022-08-24,8,3,2022,North,Food & Beverage,Green Tea,Bob Smith,10,12.74,0.05,121.03,67.71,53.32,44.06,4.9
+ORD-10945,2022-08-25,8,3,2022,South,Electronics,Laptop,Alice Johnson,1,1171.14,0.15,995.47,744.4,251.07,25.22,4.1
+ORD-10423,2022-08-26,8,3,2022,West,Home & Garden,Lamp,Alice Johnson,38,45.65,0.0,1734.7,1042.7,692.0,39.89,5.0
+ORD-10361,2022-08-26,8,3,2022,West,Clothing,Sneakers,David Brown,26,83.93,0.0,2182.18,1412.91,769.27,35.25,4.3
+ORD-10446,2022-08-27,8,3,2022,South,Electronics,Smart Watch,David Brown,1,300.2,0.1,270.18,205.21,64.97,24.05,4.8
+ORD-10302,2022-08-28,8,3,2022,South,Electronics,Smartphone,Eva Martinez,3,775.71,0.05,2210.77,1543.25,667.52,30.19,5.0
+ORD-10063,2022-08-29,8,3,2022,East,Clothing,Sneakers,Bob Smith,2,94.1,0.0,188.2,103.32,84.88,45.1,3.4
+ORD-10866,2022-08-29,8,3,2022,West,Food & Beverage,Olive Oil,Carol White,27,13.99,0.05,358.84,245.3,113.54,31.64,3.7
+ORD-10151,2022-08-30,8,3,2022,East,Electronics,Tablet,Eva Martinez,15,570.55,0.1,7702.43,4382.77,3319.66,43.1,4.4
+ORD-10228,2022-08-30,8,3,2022,East,Home & Garden,Lamp,Eva Martinez,3,49.24,0.2,118.18,78.39,39.79,33.67,3.5
+ORD-10208,2022-08-30,8,3,2022,West,Electronics,Tablet,Bob Smith,1,538.78,0.1,484.9,369.69,115.21,23.76,4.1
+ORD-10775,2022-09-01,9,3,2022,East,Sports,Running Shoes,Bob Smith,9,120.39,0.1,975.16,579.68,395.48,40.56,3.9
+ORD-10970,2022-09-02,9,3,2022,North,Clothing,Sneakers,Alice Johnson,16,95.96,0.1,1381.82,910.21,471.61,34.13,3.7
+ORD-10367,2022-09-02,9,3,2022,East,Electronics,Smartphone,Carol White,2,925.28,0.2,1480.45,1069.05,411.4,27.79,4.5
+ORD-10878,2022-09-02,9,3,2022,North,Electronics,Headphones,Carol White,3,156.42,0.15,398.87,315.15,83.72,20.99,4.8
+ORD-10689,2022-09-02,9,3,2022,East,Electronics,Smart Watch,David Brown,4,320.01,0.2,1024.03,814.93,209.1,20.42,5.0
+ORD-10877,2022-09-04,9,3,2022,North,Food & Beverage,Coffee Beans,David Brown,14,19.38,0.05,257.75,155.11,102.64,39.82,4.9
+ORD-10968,2022-09-04,9,3,2022,South,Home & Garden,Lamp,David Brown,21,43.29,0.0,909.09,569.8,339.29,37.32,4.1
+ORD-10486,2022-09-05,9,3,2022,East,Sports,Resistance Bands,David Brown,12,17.19,0.15,175.34,127.35,47.99,27.37,3.6
+ORD-10326,2022-09-07,9,3,2022,South,Home & Garden,Coffee Maker,Alice Johnson,6,70.29,0.15,358.48,242.86,115.62,32.25,3.3
+ORD-10093,2022-09-07,9,3,2022,East,Food & Beverage,Green Tea,David Brown,36,13.51,0.2,389.09,276.62,112.47,28.91,4.1
+ORD-10065,2022-09-07,9,3,2022,South,Electronics,Laptop,David Brown,2,1051.61,0.05,1998.06,1389.85,608.21,30.44,3.9
+ORD-10566,2022-09-07,9,3,2022,North,Home & Garden,Lamp,Alice Johnson,25,51.06,0.1,1148.85,776.17,372.68,32.44,4.3
+ORD-10360,2022-09-07,9,3,2022,South,Food & Beverage,Protein Powder,Carol White,36,43.41,0.15,1328.35,1080.95,247.4,18.62,2.9
+ORD-10009,2022-09-08,9,3,2022,South,Sports,Water Bottle,Carol White,41,18.14,0.2,594.99,404.54,190.45,32.01,3.2
+ORD-10744,2022-09-09,9,3,2022,West,Electronics,Smart Watch,David Brown,9,277.12,0.0,2494.08,1341.74,1152.34,46.2,4.7
+ORD-10317,2022-09-09,9,3,2022,West,Food & Beverage,Green Tea,Carol White,49,11.39,0.15,474.39,386.94,87.45,18.43,2.9
+ORD-10336,2022-09-10,9,3,2022,North,Electronics,Tablet,Bob Smith,7,516.0,0.05,3431.4,2340.33,1091.07,31.8,3.6
+ORD-10381,2022-09-11,9,3,2022,West,Sports,Dumbbells,Eva Martinez,41,90.24,0.1,3329.86,2314.48,1015.38,30.49,3.9
+ORD-10023,2022-09-11,9,3,2022,South,Electronics,Tablet,Alice Johnson,10,464.06,0.2,3712.48,2533.87,1178.61,31.75,4.9
+ORD-10531,2022-09-12,9,3,2022,West,Home & Garden,Lamp,Bob Smith,36,47.58,0.2,1370.3,875.13,495.17,36.14,3.0
+ORD-10430,2022-09-12,9,3,2022,East,Sports,Resistance Bands,Alice Johnson,44,16.67,0.1,660.13,404.91,255.22,38.66,2.9
+ORD-10839,2022-09-14,9,3,2022,West,Electronics,Headphones,Bob Smith,11,157.49,0.0,1732.39,1189.42,542.97,31.34,3.5
+ORD-10241,2022-09-14,9,3,2022,South,Food & Beverage,Green Tea,Bob Smith,41,10.48,0.1,386.71,267.64,119.07,30.79,4.1
+ORD-10581,2022-09-14,9,3,2022,North,Clothing,Dress,David Brown,22,78.16,0.1,1547.57,903.85,643.72,41.6,2.8
+ORD-10675,2022-09-14,9,3,2022,West,Electronics,Laptop,Bob Smith,4,1129.79,0.15,3841.29,2482.97,1358.32,35.36,2.8
+ORD-10325,2022-09-16,9,3,2022,East,Home & Garden,Lamp,Alice Johnson,24,54.08,0.15,1103.23,768.11,335.12,30.38,4.9
+ORD-10216,2022-09-17,9,3,2022,North,Home & Garden,Coffee Maker,Carol White,16,77.69,0.0,1243.04,813.32,429.72,34.57,4.3
+ORD-10678,2022-09-17,9,3,2022,West,Home & Garden,Vacuum,Carol White,15,194.54,0.0,2918.1,1963.1,955.0,32.73,4.1
+ORD-10972,2022-09-22,9,3,2022,East,Food & Beverage,Protein Powder,Alice Johnson,47,51.04,0.15,2039.05,1574.74,464.31,22.77,3.8
+ORD-10473,2022-09-22,9,3,2022,East,Electronics,Laptop,David Brown,5,1219.32,0.15,5182.11,3721.43,1460.68,28.19,3.6
+ORD-10572,2022-09-22,9,3,2022,West,Sports,Water Bottle,David Brown,28,19.83,0.1,499.72,279.5,220.22,44.07,4.0
+ORD-10090,2022-09-22,9,3,2022,East,Home & Garden,Blender,Carol White,36,62.39,0.0,2246.04,1355.09,890.95,39.67,3.2
+ORD-10763,2022-09-23,9,3,2022,East,Clothing,Dress,Eva Martinez,32,96.29,0.2,2465.02,1990.0,475.02,19.27,5.0
+ORD-10496,2022-09-23,9,3,2022,West,Sports,Water Bottle,Alice Johnson,38,19.75,0.2,600.4,497.73,102.67,17.1,3.7
+ORD-10077,2022-09-24,9,3,2022,West,Home & Garden,Vacuum,David Brown,6,202.93,0.1,1095.82,794.16,301.66,27.53,3.5
+ORD-10664,2022-09-24,9,3,2022,South,Home & Garden,Coffee Maker,Alice Johnson,34,66.94,0.05,2162.16,1294.51,867.65,40.13,4.3
+ORD-10993,2022-09-24,9,3,2022,South,Electronics,Tablet,Bob Smith,10,492.22,0.0,4922.2,2475.0,2447.2,49.72,4.2
+ORD-10894,2022-09-24,9,3,2022,South,Sports,Running Shoes,Carol White,13,106.17,0.0,1380.21,731.05,649.16,47.03,4.7
+ORD-10054,2022-09-25,9,3,2022,South,Food & Beverage,Green Tea,Alice Johnson,7,11.55,0.2,64.68,47.45,17.23,26.64,4.1
+ORD-10529,2022-09-25,9,3,2022,East,Electronics,Smart Watch,Eva Martinez,12,338.97,0.2,3254.11,2216.04,1038.07,31.9,3.9
+ORD-10948,2022-09-25,9,3,2022,East,Food & Beverage,Olive Oil,Alice Johnson,49,15.2,0.0,744.8,519.98,224.82,30.19,4.9
+ORD-10459,2022-09-25,9,3,2022,North,Electronics,Tablet,Bob Smith,15,513.28,0.15,6544.32,4097.37,2446.95,37.39,4.2
+ORD-10997,2022-09-26,9,3,2022,South,Food & Beverage,Energy Bars,Bob Smith,24,21.27,0.2,408.38,325.1,83.28,20.39,4.9
+ORD-10017,2022-09-27,9,3,2022,South,Food & Beverage,Coffee Beans,Carol White,41,17.8,0.2,583.84,453.79,130.05,22.27,3.3
+ORD-10254,2022-09-28,9,3,2022,East,Sports,Running Shoes,Alice Johnson,7,121.29,0.0,849.03,521.35,327.68,38.59,3.2
+ORD-10594,2022-09-28,9,3,2022,East,Clothing,Jacket,Bob Smith,9,135.63,0.1,1098.6,705.08,393.52,35.82,3.3
+ORD-10836,2022-09-29,9,3,2022,South,Sports,Yoga Mat,David Brown,13,32.6,0.2,339.04,245.18,93.86,27.68,3.6
+ORD-10995,2022-09-30,9,3,2022,East,Sports,Water Bottle,Bob Smith,28,22.88,0.05,608.61,397.21,211.4,34.73,4.4
+ORD-10374,2022-10-02,10,4,2022,East,Food & Beverage,Coffee Beans,David Brown,35,19.19,0.05,765.68,468.78,296.9,38.78,2.9
+ORD-10524,2022-10-02,10,4,2022,North,Home & Garden,Plant Pot,Bob Smith,8,22.55,0.15,184.01,104.64,79.37,43.13,5.0
+ORD-10342,2022-10-03,10,4,2022,East,Home & Garden,Lamp,Bob Smith,5,46.48,0.05,264.94,136.4,128.54,48.52,4.4
+ORD-10338,2022-10-04,10,4,2022,North,Clothing,Jacket,Bob Smith,7,119.0,0.15,849.66,509.29,340.37,40.06,5.0
+ORD-10516,2022-10-04,10,4,2022,South,Sports,Yoga Mat,Eva Martinez,47,33.91,0.2,1530.02,834.41,695.61,45.46,4.7
+ORD-10087,2022-10-04,10,4,2022,West,Sports,Water Bottle,Eva Martinez,18,20.28,0.1,394.24,244.7,149.54,37.93,4.6
+ORD-10426,2022-10-06,10,4,2022,South,Electronics,Smartphone,Bob Smith,5,735.78,0.0,4414.68,1953.8,2460.88,55.74,4.6
+ORD-10175,2022-10-06,10,4,2022,West,Sports,Water Bottle,Eva Martinez,29,20.31,0.15,600.77,326.67,274.1,45.62,5.0
+ORD-10911,2022-10-07,10,4,2022,West,Clothing,Dress,David Brown,46,79.1,0.2,3493.06,2368.91,1124.15,32.18,3.7
+ORD-10485,2022-10-08,10,4,2022,East,Sports,Resistance Bands,David Brown,41,16.61,0.0,817.21,433.28,383.93,46.98,3.3
+ORD-10505,2022-10-08,10,4,2022,South,Clothing,Dress,Bob Smith,32,81.01,0.0,3110.78,1363.25,1747.53,56.18,3.9
+ORD-10596,2022-10-08,10,4,2022,East,Food & Beverage,Olive Oil,Eva Martinez,12,14.94,0.15,182.87,113.08,69.79,38.16,4.3
+ORD-10270,2022-10-08,10,4,2022,East,Electronics,Smart Watch,Eva Martinez,7,343.79,0.15,2454.66,1597.15,857.51,34.93,3.3
+ORD-10761,2022-10-09,10,4,2022,East,Food & Beverage,Energy Bars,Eva Martinez,14,23.93,0.05,381.92,208.52,173.4,45.4,3.2
+ORD-10152,2022-10-10,10,4,2022,South,Electronics,Headphones,Alice Johnson,11,142.35,0.05,1785.07,983.89,801.18,44.88,4.0
+ORD-10474,2022-10-10,10,4,2022,West,Electronics,Smart Watch,Eva Martinez,9,299.32,0.15,2747.76,1407.56,1340.2,48.77,4.3
+ORD-10886,2022-10-11,10,4,2022,North,Electronics,Tablet,Carol White,8,508.66,0.15,4150.67,2442.75,1707.92,41.15,4.2
+ORD-10096,2022-10-11,10,4,2022,East,Electronics,Smartphone,Carol White,2,889.42,0.1,1921.15,953.26,967.89,50.38,3.1
+ORD-10835,2022-10-11,10,4,2022,North,Sports,Water Bottle,Carol White,4,20.75,0.1,89.64,57.36,32.28,36.01,3.7
+ORD-10979,2022-10-12,10,4,2022,South,Home & Garden,Lamp,Carol White,20,45.01,0.0,1080.24,566.3,513.94,47.58,4.0
+ORD-10904,2022-10-12,10,4,2022,South,Electronics,Laptop,Eva Martinez,4,1049.87,0.0,5039.38,2919.34,2120.04,42.07,4.4
+ORD-10003,2022-10-12,10,4,2022,North,Clothing,Jeans,Carol White,18,67.97,0.05,1394.74,664.42,730.32,52.36,4.4
+ORD-10818,2022-10-12,10,4,2022,East,Clothing,Dress,Carol White,18,83.8,0.1,1629.07,758.48,870.59,53.44,4.3
+ORD-10170,2022-10-13,10,4,2022,South,Sports,Resistance Bands,Eva Martinez,40,13.66,0.2,524.54,276.07,248.47,47.37,4.4
+ORD-10943,2022-10-13,10,4,2022,East,Sports,Running Shoes,David Brown,11,116.1,0.2,1226.02,881.23,344.79,28.12,4.5
+ORD-10053,2022-10-13,10,4,2022,East,Food & Beverage,Energy Bars,Eva Martinez,22,26.48,0.0,699.07,304.72,394.35,56.41,3.9
+ORD-10559,2022-10-13,10,4,2022,East,Clothing,Sneakers,Eva Martinez,17,100.0,0.0,2040.0,962.39,1077.61,52.82,4.5
+ORD-10575,2022-10-16,10,4,2022,West,Sports,Water Bottle,Alice Johnson,31,19.01,0.05,671.81,357.53,314.28,46.78,2.4
+ORD-10043,2022-10-16,10,4,2022,South,Home & Garden,Vacuum,Carol White,9,198.7,0.15,1824.07,983.97,840.1,46.06,4.3
+ORD-10567,2022-10-17,10,4,2022,North,Food & Beverage,Green Tea,Eva Martinez,33,12.45,0.15,419.07,245.43,173.64,41.43,4.8
+ORD-10996,2022-10-17,10,4,2022,South,Sports,Dumbbells,David Brown,10,80.52,0.0,966.24,449.33,516.91,53.5,4.3
+ORD-10194,2022-10-17,10,4,2022,West,Sports,Running Shoes,Eva Martinez,1,115.23,0.1,124.45,59.13,65.32,52.49,3.6
+ORD-10724,2022-10-18,10,4,2022,South,Food & Beverage,Green Tea,Alice Johnson,30,12.11,0.0,435.96,186.49,249.47,57.22,3.8
+ORD-10938,2022-10-18,10,4,2022,West,Food & Beverage,Green Tea,David Brown,15,11.66,0.2,167.9,101.7,66.2,39.43,4.1
+ORD-10907,2022-10-19,10,4,2022,East,Home & Garden,Plant Pot,David Brown,36,21.7,0.0,937.44,424.3,513.14,54.74,3.2
+ORD-10703,2022-10-19,10,4,2022,North,Food & Beverage,Protein Powder,Carol White,1,43.89,0.1,47.4,30.59,16.81,35.46,5.0
+ORD-10895,2022-10-19,10,4,2022,West,Clothing,Dress,Bob Smith,46,72.5,0.2,3201.6,1857.76,1343.84,41.97,4.3
+ORD-10117,2022-10-22,10,4,2022,West,Sports,Yoga Mat,Alice Johnson,41,38.75,0.2,1525.2,1048.36,476.84,31.26,4.6
+ORD-10889,2022-10-23,10,4,2022,North,Electronics,Smartphone,Carol White,1,821.97,0.05,937.05,492.58,444.47,47.43,3.4
+ORD-10278,2022-10-24,10,4,2022,North,Electronics,Tablet,Eva Martinez,10,512.2,0.0,6146.4,3512.11,2634.29,42.86,3.5
+ORD-10817,2022-10-26,10,4,2022,North,Home & Garden,Lamp,Alice Johnson,9,46.46,0.2,401.41,215.5,185.91,46.31,3.9
+ORD-10452,2022-10-29,10,4,2022,South,Clothing,Jacket,Eva Martinez,7,115.09,0.2,773.4,408.03,365.37,47.24,4.2
+ORD-10568,2022-10-31,10,4,2022,South,Home & Garden,Blender,Alice Johnson,7,55.36,0.05,441.77,269.07,172.7,39.09,3.0
+ORD-10845,2022-11-03,11,4,2022,West,Electronics,Tablet,David Brown,2,514.67,0.15,1049.93,666.05,383.88,36.56,3.8
+ORD-10260,2022-11-03,11,4,2022,East,Food & Beverage,Olive Oil,Eva Martinez,32,14.11,0.2,433.46,252.83,180.63,41.67,4.6
+ORD-10234,2022-11-04,11,4,2022,South,Clothing,T-Shirt,Eva Martinez,15,23.12,0.0,416.16,241.73,174.43,41.91,3.4
+ORD-10359,2022-11-04,11,4,2022,North,Electronics,Laptop,Carol White,1,1237.09,0.05,1410.28,848.62,561.66,39.83,3.9
+ORD-10084,2022-11-05,11,4,2022,North,Food & Beverage,Coffee Beans,Carol White,35,18.67,0.15,666.52,413.18,253.34,38.01,3.6
+ORD-10178,2022-11-05,11,4,2022,South,Clothing,T-Shirt,Carol White,21,23.73,0.0,598.0,249.94,348.06,58.2,3.6
+ORD-10913,2022-11-06,11,4,2022,East,Sports,Resistance Bands,David Brown,15,15.6,0.0,280.8,154.03,126.77,45.15,4.8
+ORD-10147,2022-11-06,11,4,2022,West,Electronics,Smartphone,Alice Johnson,1,814.28,0.1,879.42,569.33,310.09,35.26,3.5
+ORD-10136,2022-11-06,11,4,2022,South,Sports,Water Bottle,Alice Johnson,16,20.11,0.15,328.2,197.68,130.52,39.77,4.1
+ORD-10388,2022-11-06,11,4,2022,South,Home & Garden,Coffee Maker,Carol White,17,68.66,0.0,1400.66,670.41,730.25,52.14,3.6
+ORD-10729,2022-11-06,11,4,2022,South,Food & Beverage,Green Tea,Alice Johnson,41,12.14,0.1,537.56,336.34,201.22,37.43,4.5
+ORD-10843,2022-11-07,11,4,2022,West,Electronics,Laptop,Carol White,5,1172.12,0.1,6329.45,3024.61,3304.84,52.21,4.1
+ORD-10696,2022-11-08,11,4,2022,North,Clothing,Dress,Alice Johnson,7,92.46,0.05,737.83,392.43,345.4,46.81,4.0
+ORD-10500,2022-11-11,11,4,2022,West,Home & Garden,Plant Pot,Carol White,38,21.4,0.1,878.26,482.03,396.23,45.12,4.6
+ORD-10293,2022-11-12,11,4,2022,North,Sports,Running Shoes,Alice Johnson,12,112.85,0.05,1543.79,833.73,710.06,45.99,3.3
+ORD-10752,2022-11-13,11,4,2022,West,Home & Garden,Vacuum,Alice Johnson,15,198.3,0.05,3390.93,2058.61,1332.32,39.29,3.6
+ORD-10184,2022-11-14,11,4,2022,East,Clothing,T-Shirt,Bob Smith,5,27.63,0.2,132.62,86.57,46.05,34.72,3.7
+ORD-10789,2022-11-14,11,4,2022,West,Sports,Dumbbells,Bob Smith,10,77.06,0.2,739.78,425.07,314.71,42.54,3.6
+ORD-10673,2022-11-16,11,4,2022,West,Home & Garden,Lamp,Alice Johnson,22,39.25,0.0,1036.2,577.43,458.77,44.27,4.5
+ORD-10781,2022-11-16,11,4,2022,South,Home & Garden,Vacuum,Bob Smith,5,166.97,0.1,901.64,506.3,395.34,43.85,4.6
+ORD-10976,2022-11-17,11,4,2022,East,Food & Beverage,Energy Bars,Bob Smith,28,23.1,0.05,737.35,342.06,395.29,53.61,3.4
+ORD-10165,2022-11-17,11,4,2022,East,Home & Garden,Vacuum,David Brown,2,219.87,0.0,527.69,293.02,234.67,44.47,3.2
+ORD-10267,2022-11-18,11,4,2022,South,Sports,Resistance Bands,Carol White,35,13.79,0.1,521.26,306.57,214.69,41.19,4.0
+ORD-10055,2022-11-18,11,4,2022,West,Food & Beverage,Olive Oil,Alice Johnson,25,12.66,0.2,303.84,170.28,133.56,43.96,4.2
+ORD-10647,2022-11-20,11,4,2022,West,Home & Garden,Plant Pot,Eva Martinez,37,20.08,0.0,891.55,430.68,460.87,51.69,3.7
+ORD-10584,2022-11-20,11,4,2022,West,Clothing,Jacket,Carol White,4,123.57,0.05,563.48,317.55,245.93,43.64,4.5
+ORD-10337,2022-11-21,11,4,2022,East,Electronics,Laptop,Alice Johnson,3,1227.1,0.15,3754.93,2105.64,1649.29,43.92,3.6
+ORD-10562,2022-11-22,11,4,2022,South,Clothing,Dress,Alice Johnson,33,82.21,0.05,3092.74,1582.14,1510.6,48.84,3.1
+ORD-10444,2022-11-22,11,4,2022,East,Food & Beverage,Coffee Beans,Carol White,37,20.38,0.2,723.9,398.46,325.44,44.96,5.0
+ORD-10306,2022-11-23,11,4,2022,West,Sports,Dumbbells,Carol White,25,81.12,0.05,2311.92,1319.99,991.93,42.91,3.1
+ORD-10441,2022-11-23,11,4,2022,South,Electronics,Tablet,Alice Johnson,13,463.38,0.15,6144.42,3649.82,2494.6,40.6,4.8
+ORD-10224,2022-11-25,11,4,2022,North,Electronics,Tablet,Carol White,5,511.51,0.15,2608.7,1587.02,1021.68,39.16,3.4
+ORD-10481,2022-11-25,11,4,2022,East,Sports,Resistance Bands,Alice Johnson,13,16.66,0.15,220.91,117.45,103.46,46.83,4.6
+ORD-10346,2022-11-25,11,4,2022,South,Sports,Running Shoes,Bob Smith,7,98.85,0.1,747.31,386.31,361.0,48.31,4.4
+ORD-10533,2022-11-25,11,4,2022,South,Home & Garden,Plant Pot,Alice Johnson,33,17.77,0.05,668.51,357.77,310.74,46.48,4.7
+ORD-10124,2022-11-26,11,4,2022,South,Clothing,Dress,David Brown,15,82.71,0.15,1265.46,631.16,634.3,50.12,4.4
+ORD-10854,2022-11-26,11,4,2022,South,Electronics,Smart Watch,Bob Smith,6,283.11,0.0,2038.39,890.35,1148.04,56.32,3.1
+ORD-10061,2022-11-26,11,4,2022,West,Sports,Water Bottle,Bob Smith,33,21.4,0.15,720.32,465.21,255.11,35.42,3.1
+ORD-10550,2022-11-27,11,4,2022,North,Home & Garden,Blender,David Brown,38,60.63,0.2,2211.78,1586.34,625.44,28.28,2.2
+ORD-10174,2022-11-29,11,4,2022,North,Electronics,Smartphone,Bob Smith,5,809.83,0.0,4858.98,2570.38,2288.6,47.1,3.7
+ORD-10010,2022-11-29,11,4,2022,North,Clothing,Jacket,Carol White,7,135.23,0.1,1022.34,485.84,536.5,52.48,3.8
+ORD-10957,2022-11-30,11,4,2022,North,Sports,Water Bottle,Eva Martinez,33,19.11,0.15,643.24,348.94,294.3,45.75,3.7
+ORD-10867,2022-11-30,11,4,2022,South,Electronics,Tablet,Bob Smith,2,494.0,0.05,1126.32,639.78,486.54,43.2,2.8
+ORD-10778,2022-12-02,12,4,2022,South,Electronics,Smart Watch,Bob Smith,4,298.02,0.0,1430.5,705.56,724.94,50.68,3.2
+ORD-10564,2022-12-06,12,4,2022,East,Home & Garden,Vacuum,Eva Martinez,9,219.29,0.15,2013.08,1380.2,632.88,31.44,4.3
+ORD-10311,2022-12-07,12,4,2022,East,Electronics,Smartphone,Bob Smith,1,962.81,0.15,982.07,657.49,324.58,33.05,5.0
+ORD-10050,2022-12-07,12,4,2022,West,Clothing,T-Shirt,Bob Smith,45,23.23,0.0,1254.42,602.65,651.77,51.96,3.5
+ORD-10345,2022-12-07,12,4,2022,West,Home & Garden,Lamp,Carol White,28,44.19,0.2,1187.83,652.35,535.48,45.08,5.0
+ORD-10217,2022-12-07,12,4,2022,South,Electronics,Tablet,Eva Martinez,6,510.68,0.05,3493.05,2040.91,1452.14,41.57,4.0
+ORD-10780,2022-12-08,12,4,2022,West,Electronics,Laptop,Eva Martinez,3,1198.72,0.0,4315.39,2213.48,2101.91,48.71,3.3
+ORD-10709,2022-12-09,12,4,2022,East,Sports,Water Bottle,Alice Johnson,50,23.68,0.05,1349.76,769.05,580.71,43.02,4.3
+ORD-10649,2022-12-09,12,4,2022,East,Home & Garden,Plant Pot,Eva Martinez,36,22.29,0.1,866.64,456.45,410.19,47.33,4.2
+ORD-10882,2022-12-10,12,4,2022,North,Food & Beverage,Green Tea,Alice Johnson,8,12.44,0.15,101.51,57.04,44.47,43.81,3.5
+ORD-10070,2022-12-10,12,4,2022,East,Food & Beverage,Coffee Beans,Bob Smith,10,20.03,0.05,228.34,115.49,112.85,49.42,4.8
+ORD-10279,2022-12-10,12,4,2022,East,Sports,Resistance Bands,Eva Martinez,32,16.83,0.05,613.96,360.95,253.01,41.21,3.6
+ORD-10004,2022-12-11,12,4,2022,North,Electronics,Headphones,Alice Johnson,6,153.8,0.1,996.62,572.82,423.8,42.52,4.4
+ORD-10089,2022-12-11,12,4,2022,North,Sports,Running Shoes,Bob Smith,8,113.97,0.05,1039.41,520.58,518.83,49.92,5.0
+ORD-10963,2022-12-11,12,4,2022,East,Electronics,Smart Watch,Eva Martinez,8,288.25,0.15,2352.12,1249.73,1102.39,46.87,3.9
+ORD-10075,2022-12-11,12,4,2022,West,Clothing,Jeans,Bob Smith,40,60.75,0.2,2332.8,1228.11,1104.69,47.35,4.4
+ORD-10848,2022-12-12,12,4,2022,North,Sports,Yoga Mat,Bob Smith,42,34.91,0.2,1407.57,867.52,540.05,38.37,3.7
+ORD-10785,2022-12-13,12,4,2022,West,Electronics,Smartphone,Alice Johnson,4,831.77,0.0,3992.5,1734.03,2258.47,56.57,2.9
+ORD-10942,2022-12-13,12,4,2022,South,Food & Beverage,Energy Bars,Alice Johnson,15,20.87,0.15,319.31,201.93,117.38,36.76,4.3
+ORD-10619,2022-12-13,12,4,2022,North,Clothing,Jeans,Alice Johnson,6,64.79,0.05,443.16,231.04,212.12,47.87,5.0
+ORD-10257,2022-12-14,12,4,2022,East,Clothing,Sneakers,Eva Martinez,33,96.14,0.15,3236.07,1903.62,1332.45,41.17,4.6
+ORD-10099,2022-12-15,12,4,2022,South,Electronics,Tablet,David Brown,2,476.38,0.0,1143.31,552.74,590.57,51.65,3.0
+ORD-10926,2022-12-17,12,4,2022,South,Home & Garden,Coffee Maker,Alice Johnson,15,67.0,0.05,1145.7,674.72,470.98,41.11,4.5
+ORD-10497,2022-12-18,12,4,2022,South,Food & Beverage,Energy Bars,Carol White,33,19.85,0.1,707.45,438.28,269.17,38.05,3.8
+ORD-10654,2022-12-18,12,4,2022,South,Home & Garden,Plant Pot,Carol White,46,20.03,0.1,995.09,572.25,422.84,42.49,4.3
+ORD-10547,2022-12-18,12,4,2022,East,Sports,Dumbbells,Bob Smith,27,91.22,0.2,2364.42,1576.29,788.13,33.33,4.1
+ORD-10898,2022-12-19,12,4,2022,South,Home & Garden,Lamp,Eva Martinez,11,42.07,0.2,444.26,259.3,184.96,41.63,3.6
+ORD-10469,2022-12-19,12,4,2022,West,Food & Beverage,Protein Powder,Eva Martinez,4,45.55,0.15,185.84,120.92,64.92,34.93,3.7
+ORD-10718,2022-12-19,12,4,2022,North,Home & Garden,Vacuum,Carol White,10,207.39,0.15,2115.38,1295.43,819.95,38.76,5.0
+ORD-10598,2022-12-20,12,4,2022,West,Sports,Resistance Bands,Alice Johnson,33,14.99,0.05,563.92,290.86,273.06,48.42,4.3
+ORD-10663,2022-12-22,12,4,2022,West,Food & Beverage,Protein Powder,Alice Johnson,29,42.89,0.1,1343.31,712.9,630.41,46.93,3.9
+ORD-10409,2022-12-22,12,4,2022,East,Clothing,T-Shirt,Bob Smith,48,27.61,0.1,1431.3,856.91,574.39,40.13,4.7
+ORD-10626,2022-12-23,12,4,2022,East,Home & Garden,Vacuum,Eva Martinez,4,198.07,0.15,808.13,543.46,264.67,32.75,4.4
+ORD-10456,2022-12-25,12,4,2022,East,Electronics,Laptop,Alice Johnson,4,1336.46,0.15,5452.76,3456.18,1996.58,36.62,5.0
+ORD-10487,2022-12-25,12,4,2022,East,Clothing,T-Shirt,Alice Johnson,19,26.89,0.0,613.09,294.96,318.13,51.89,2.5
+ORD-10931,2022-12-26,12,4,2022,North,Electronics,Smartphone,Carol White,5,873.33,0.1,4715.98,2490.91,2225.07,47.18,2.8
+ORD-10139,2022-12-27,12,4,2022,South,Clothing,Dress,Carol White,44,76.27,0.05,3825.7,2099.61,1726.09,45.12,3.6
+ORD-10008,2022-12-30,12,4,2022,South,Home & Garden,Coffee Maker,Eva Martinez,41,67.64,0.05,3161.49,1682.88,1478.61,46.77,4.1
+ORD-10540,2022-12-30,12,4,2022,East,Food & Beverage,Olive Oil,Carol White,45,15.13,0.0,817.02,346.66,470.36,57.57,3.6
+ORD-10955,2023-01-01,1,1,2023,West,Home & Garden,Coffee Maker,Bob Smith,16,81.5,0.05,1052.98,821.02,231.96,22.03,5.0
+ORD-10937,2023-01-05,1,1,2023,East,Food & Beverage,Coffee Beans,Alice Johnson,21,21.1,0.15,320.14,231.81,88.33,27.59,5.0
+ORD-10916,2023-01-06,1,1,2023,West,Food & Beverage,Energy Bars,Carol White,41,23.05,0.15,682.8,656.67,26.13,3.83,4.3
+ORD-10289,2023-01-06,1,1,2023,North,Food & Beverage,Coffee Beans,Alice Johnson,36,17.5,0.2,428.4,340.47,87.93,20.53,5.0
+ORD-10790,2023-01-08,1,1,2023,West,Clothing,T-Shirt,Carol White,30,25.25,0.15,547.29,383.34,163.95,29.96,4.9
+ORD-10538,2023-01-08,1,1,2023,North,Clothing,Jeans,Carol White,36,58.1,0.2,1422.29,1296.77,125.52,8.83,3.9
+ORD-10142,2023-01-10,1,1,2023,East,Clothing,T-Shirt,David Brown,19,30.43,0.1,442.3,382.08,60.22,13.62,2.6
+ORD-10597,2023-01-10,1,1,2023,North,Food & Beverage,Green Tea,David Brown,15,11.6,0.2,118.32,101.12,17.2,14.54,4.5
+ORD-10954,2023-01-11,1,1,2023,East,Food & Beverage,Coffee Beans,Carol White,25,18.62,0.0,395.68,272.61,123.07,31.1,3.9
+ORD-10706,2023-01-11,1,1,2023,South,Clothing,T-Shirt,Carol White,6,24.29,0.2,99.1,84.52,14.58,14.71,5.0
+ORD-10393,2023-01-12,1,1,2023,East,Clothing,Jeans,Bob Smith,42,68.75,0.05,2331.66,1483.26,848.4,36.39,4.2
+ORD-10383,2023-01-13,1,1,2023,West,Sports,Running Shoes,Eva Martinez,1,109.81,0.0,93.34,70.96,22.38,23.98,5.0
+ORD-10880,2023-01-15,1,1,2023,West,Electronics,Laptop,David Brown,3,1298.4,0.2,2648.74,1973.09,675.65,25.51,4.7
+ORD-10776,2023-01-19,1,1,2023,North,Clothing,Jacket,David Brown,9,120.47,0.0,921.6,715.38,206.22,22.38,3.2
+ORD-10083,2023-01-20,1,1,2023,West,Clothing,Jacket,Eva Martinez,12,124.93,0.05,1210.57,780.13,430.44,35.56,5.0
+ORD-10382,2023-01-20,1,1,2023,West,Electronics,Laptop,David Brown,5,1268.96,0.1,4853.77,4053.95,799.82,16.48,3.5
+ORD-10335,2023-01-20,1,1,2023,West,Clothing,Dress,David Brown,6,84.98,0.2,346.72,285.06,61.66,17.78,2.7
+ORD-10991,2023-01-22,1,1,2023,South,Electronics,Laptop,Eva Martinez,5,1104.28,0.05,4458.53,3762.11,696.42,15.62,4.5
+ORD-10953,2023-01-22,1,1,2023,East,Home & Garden,Plant Pot,Alice Johnson,2,20.27,0.2,27.57,20.64,6.93,25.14,3.4
+ORD-10351,2023-01-22,1,1,2023,North,Sports,Resistance Bands,David Brown,38,15.2,0.15,417.32,350.53,66.79,16.0,3.1
+ORD-10534,2023-01-23,1,1,2023,West,Clothing,Jacket,David Brown,8,117.19,0.2,637.51,552.78,84.73,13.29,4.4
+ORD-10607,2023-01-23,1,1,2023,West,Clothing,Jacket,Alice Johnson,4,118.23,0.2,321.59,317.76,3.83,1.19,5.0
+ORD-10078,2023-01-24,1,1,2023,East,Sports,Running Shoes,Alice Johnson,8,132.29,0.0,899.57,687.7,211.87,23.55,4.1
+ORD-10299,2023-01-24,1,1,2023,South,Clothing,Jeans,Carol White,10,55.73,0.1,426.33,299.66,126.67,29.71,4.3
+ORD-10726,2023-01-25,1,1,2023,North,Home & Garden,Lamp,Eva Martinez,35,47.82,0.0,1422.64,899.25,523.39,36.79,5.0
+ORD-10552,2023-01-26,1,1,2023,South,Electronics,Laptop,Bob Smith,3,1203.17,0.05,2914.68,2514.77,399.91,13.72,3.2
+ORD-10467,2023-01-26,1,1,2023,East,Clothing,Jeans,Alice Johnson,17,67.45,0.15,828.45,679.98,148.47,17.92,3.7
+ORD-10133,2023-01-27,1,1,2023,South,Sports,Resistance Bands,Bob Smith,15,15.41,0.15,167.01,145.07,21.94,13.14,3.1
+ORD-10731,2023-01-27,1,1,2023,South,Sports,Dumbbells,Eva Martinez,10,75.21,0.15,543.39,522.04,21.35,3.93,3.5
+ORD-10436,2023-01-27,1,1,2023,West,Clothing,T-Shirt,Bob Smith,12,23.28,0.1,213.71,155.32,58.39,27.32,3.5
+ORD-10222,2023-01-31,1,1,2023,East,Clothing,Jeans,David Brown,24,61.7,0.2,1006.94,819.39,187.55,18.63,4.7
+ORD-10231,2023-02-01,2,1,2023,North,Home & Garden,Plant Pot,David Brown,14,20.27,0.2,192.97,158.1,34.87,18.07,4.3
+ORD-10332,2023-02-03,2,1,2023,East,Sports,Dumbbells,Alice Johnson,33,84.86,0.1,2142.29,1430.26,712.03,33.24,4.1
+ORD-10659,2023-02-04,2,1,2023,East,Clothing,Sneakers,Carol White,29,95.98,0.05,2247.61,1464.79,782.82,34.83,3.8
+ORD-10828,2023-02-05,2,1,2023,West,Clothing,Dress,Bob Smith,34,80.67,0.1,2098.23,1743.16,355.07,16.92,4.9
+ORD-10399,2023-02-06,2,1,2023,East,Electronics,Smartphone,David Brown,4,881.25,0.0,2996.25,1932.46,1063.79,35.5,3.8
+ORD-10712,2023-02-07,2,1,2023,West,Food & Beverage,Olive Oil,Eva Martinez,6,13.27,0.05,64.29,46.69,17.6,27.38,2.5
+ORD-10348,2023-02-07,2,1,2023,East,Electronics,Smart Watch,Bob Smith,10,335.38,0.2,2280.58,1797.59,482.99,21.18,3.3
+ORD-10982,2023-02-07,2,1,2023,East,Home & Garden,Coffee Maker,Bob Smith,20,84.79,0.05,1369.36,1139.38,229.98,16.79,4.0
+ORD-10804,2023-02-08,2,1,2023,East,Sports,Water Bottle,David Brown,28,22.36,0.2,425.73,339.49,86.24,20.26,4.0
+ORD-10713,2023-02-08,2,1,2023,South,Clothing,T-Shirt,Alice Johnson,31,26.19,0.2,552.09,526.97,25.12,4.55,3.4
+ORD-10743,2023-02-08,2,1,2023,North,Food & Beverage,Coffee Beans,David Brown,30,17.56,0.0,447.78,355.88,91.9,20.52,2.6
+ORD-10905,2023-02-08,2,1,2023,South,Sports,Running Shoes,Eva Martinez,10,101.98,0.2,693.46,702.32,-8.86,-1.28,4.3
+ORD-10076,2023-02-08,2,1,2023,North,Electronics,Headphones,Bob Smith,14,152.14,0.15,1538.9,1142.4,396.5,25.77,4.3
+ORD-10655,2023-02-09,2,1,2023,East,Sports,Running Shoes,Eva Martinez,9,120.85,0.15,785.83,633.88,151.95,19.34,4.7
+ORD-10941,2023-02-09,2,1,2023,West,Food & Beverage,Coffee Beans,Bob Smith,5,16.89,0.1,64.6,58.7,5.9,9.13,3.6
+ORD-10144,2023-02-09,2,1,2023,North,Home & Garden,Blender,Alice Johnson,30,58.56,0.1,1343.95,1114.8,229.15,17.05,3.6
+ORD-10334,2023-02-11,2,1,2023,East,Electronics,Tablet,David Brown,8,477.1,0.05,3082.07,2180.01,902.06,29.27,4.7
+ORD-10658,2023-02-11,2,1,2023,North,Electronics,Tablet,Eva Martinez,3,497.04,0.0,1267.45,940.85,326.6,25.77,3.6
+ORD-10657,2023-02-11,2,1,2023,North,Electronics,Laptop,David Brown,5,1260.65,0.0,5357.76,3184.86,2172.9,40.56,2.9
+ORD-10999,2023-02-12,2,1,2023,South,Sports,Water Bottle,Eva Martinez,17,18.85,0.0,272.38,166.33,106.05,38.93,3.3
+ORD-10230,2023-02-12,2,1,2023,East,Home & Garden,Vacuum,Alice Johnson,1,241.61,0.05,195.1,144.92,50.18,25.72,3.9
+ORD-10433,2023-02-15,2,1,2023,East,Electronics,Smart Watch,Eva Martinez,5,334.72,0.0,1422.56,844.1,578.46,40.66,4.0
+ORD-10404,2023-02-16,2,1,2023,North,Food & Beverage,Olive Oil,Eva Martinez,10,15.62,0.1,119.49,80.71,38.78,32.45,3.4
+ORD-10115,2023-02-18,2,1,2023,North,Food & Beverage,Energy Bars,David Brown,4,22.26,0.05,71.9,53.75,18.15,25.24,4.1
+ORD-10182,2023-02-19,2,1,2023,North,Home & Garden,Vacuum,Eva Martinez,8,217.25,0.1,1329.57,899.63,429.94,32.34,3.7
+ORD-10482,2023-02-21,2,1,2023,West,Food & Beverage,Green Tea,Alice Johnson,33,11.95,0.05,318.44,202.35,116.09,36.46,4.9
+ORD-10936,2023-02-22,2,1,2023,North,Home & Garden,Coffee Maker,David Brown,8,77.54,0.2,421.82,327.02,94.8,22.47,4.7
+ORD-10613,2023-02-23,2,1,2023,East,Clothing,Jacket,Alice Johnson,10,132.29,0.2,899.57,692.63,206.94,23.0,4.1
+ORD-10350,2023-02-23,2,1,2023,West,Clothing,T-Shirt,Bob Smith,17,24.35,0.05,334.26,266.19,68.07,20.36,4.6
+ORD-10380,2023-02-26,2,1,2023,North,Home & Garden,Vacuum,Bob Smith,4,203.96,0.05,658.79,524.0,134.79,20.46,4.0
+ORD-10650,2023-02-26,2,1,2023,North,Home & Garden,Blender,Bob Smith,37,55.82,0.2,1404.43,1301.11,103.32,7.36,4.9
+ORD-10859,2023-02-26,2,1,2023,South,Clothing,Dress,Alice Johnson,39,78.7,0.05,2478.46,1974.91,503.55,20.32,3.6
+ORD-10669,2023-02-27,2,1,2023,South,Electronics,Smartphone,Bob Smith,3,745.25,0.0,1900.39,1402.66,497.73,26.19,3.9
+ORD-10969,2023-02-27,2,1,2023,East,Home & Garden,Vacuum,Carol White,11,231.94,0.2,1734.91,1396.16,338.75,19.53,4.3
+ORD-10536,2023-02-27,2,1,2023,North,Food & Beverage,Olive Oil,Alice Johnson,6,14.76,0.2,60.22,61.34,-1.12,-1.86,3.3
+ORD-10164,2023-02-28,2,1,2023,East,Sports,Water Bottle,David Brown,47,22.69,0.0,906.47,599.88,306.59,33.82,4.2
+ORD-10274,2023-02-28,2,1,2023,East,Sports,Yoga Mat,Bob Smith,1,39.21,0.2,26.66,27.27,-0.61,-2.29,3.8
+ORD-10771,2023-02-28,2,1,2023,North,Food & Beverage,Green Tea,Eva Martinez,47,13.65,0.1,490.79,392.01,98.78,20.13,3.7
+ORD-10965,2023-03-01,3,1,2023,West,Home & Garden,Blender,Eva Martinez,30,51.62,0.2,1053.05,830.24,222.81,21.16,4.5
+ORD-10909,2023-03-01,3,1,2023,South,Food & Beverage,Olive Oil,Alice Johnson,10,13.16,0.05,106.27,73.78,32.49,30.57,3.2
+ORD-10543,2023-03-01,3,1,2023,North,Food & Beverage,Coffee Beans,David Brown,30,19.87,0.2,405.35,412.05,-6.7,-1.65,4.4
+ORD-10766,2023-03-01,3,1,2023,West,Electronics,Tablet,Carol White,9,508.08,0.05,3692.47,2296.69,1395.78,37.8,3.8
+ORD-10120,2023-03-02,3,1,2023,West,Sports,Dumbbells,David Brown,36,76.83,0.05,2233.45,1595.13,638.32,28.58,3.8
+ORD-10695,2023-03-02,3,1,2023,East,Electronics,Smart Watch,Carol White,9,337.59,0.0,2582.56,1965.36,617.2,23.9,3.3
+ORD-10858,2023-03-03,3,1,2023,West,Clothing,Sneakers,Bob Smith,41,91.49,0.1,2869.58,2267.97,601.61,20.97,4.1
+ORD-10308,2023-03-03,3,1,2023,South,Sports,Dumbbells,Carol White,14,76.42,0.1,818.46,673.32,145.14,17.73,4.5
+ORD-10316,2023-03-04,3,1,2023,East,Clothing,Sneakers,Carol White,15,98.22,0.15,1064.46,904.54,159.92,15.02,3.8
+ORD-10265,2023-03-05,3,1,2023,South,Sports,Dumbbells,David Brown,33,78.43,0.2,1759.97,1770.59,-10.62,-0.6,3.0
+ORD-10470,2023-03-05,3,1,2023,West,Food & Beverage,Protein Powder,David Brown,20,42.12,0.0,716.04,487.72,228.32,31.89,4.4
+ORD-10074,2023-03-06,3,1,2023,South,Sports,Dumbbells,Carol White,28,77.98,0.15,1577.54,1104.39,473.15,29.99,4.3
+ORD-10919,2023-03-06,3,1,2023,East,Electronics,Tablet,Carol White,9,549.09,0.0,4200.54,2978.79,1221.75,29.09,3.7
+ORD-10212,2023-03-06,3,1,2023,West,Electronics,Laptop,David Brown,5,1238.72,0.2,4211.65,3117.16,1094.49,25.99,5.0
+ORD-10815,2023-03-08,3,1,2023,East,Home & Garden,Plant Pot,Bob Smith,3,22.53,0.2,45.96,43.93,2.03,4.42,3.6
+ORD-10343,2023-03-08,3,1,2023,East,Sports,Yoga Mat,Carol White,17,38.04,0.05,522.19,416.58,105.61,20.22,3.6
+ORD-10668,2023-03-09,3,1,2023,South,Food & Beverage,Olive Oil,Carol White,19,12.89,0.2,166.54,162.07,4.47,2.68,4.0
+ORD-10639,2023-03-10,3,1,2023,West,Food & Beverage,Coffee Beans,Eva Martinez,23,18.17,0.15,301.94,280.87,21.07,6.98,3.9
+ORD-10225,2023-03-13,3,1,2023,South,Sports,Running Shoes,David Brown,1,104.17,0.1,79.69,64.89,14.8,18.57,4.7
+ORD-10881,2023-03-13,3,1,2023,East,Food & Beverage,Olive Oil,Eva Martinez,14,15.46,0.0,183.97,135.08,48.89,26.57,2.7
+ORD-10699,2023-03-14,3,1,2023,North,Clothing,Sneakers,Eva Martinez,26,100.17,0.2,1771.01,1478.02,292.99,16.54,3.7
+ORD-10939,2023-03-15,3,1,2023,South,Electronics,Headphones,Carol White,3,130.51,0.0,332.8,273.97,58.83,17.68,3.2
+ORD-10611,2023-03-16,3,1,2023,South,Sports,Water Bottle,Carol White,38,19.6,0.2,506.46,386.96,119.5,23.6,4.5
+ORD-10163,2023-03-17,3,1,2023,North,Electronics,Smart Watch,Bob Smith,7,333.24,0.15,1685.36,1580.67,104.69,6.21,4.7
+ORD-10047,2023-03-17,3,1,2023,South,Electronics,Tablet,Carol White,15,465.69,0.0,5937.55,4748.54,1189.01,20.03,2.8
+ORD-10179,2023-03-17,3,1,2023,South,Clothing,Jeans,Eva Martinez,46,57.92,0.05,2151.44,1598.73,552.71,25.69,3.3
+ORD-10027,2023-03-18,3,1,2023,East,Sports,Water Bottle,David Brown,47,23.13,0.0,924.04,689.96,234.08,25.33,4.5
+ORD-10407,2023-03-21,3,1,2023,North,Sports,Resistance Bands,Eva Martinez,4,16.56,0.1,50.67,41.94,8.73,17.23,3.0
+ORD-10506,2023-03-21,3,1,2023,West,Sports,Water Bottle,David Brown,25,22.08,0.0,469.2,280.16,189.04,40.29,3.3
+ORD-10226,2023-03-22,3,1,2023,East,Electronics,Laptop,David Brown,3,1254.94,0.2,2560.08,2485.61,74.47,2.91,4.6
+ORD-10864,2023-03-22,3,1,2023,East,Home & Garden,Blender,David Brown,3,61.61,0.0,157.11,119.79,37.32,23.75,5.0
+ORD-10825,2023-03-22,3,1,2023,North,Home & Garden,Lamp,David Brown,44,48.62,0.1,1636.55,1481.14,155.41,9.5,4.2
+ORD-10869,2023-03-23,3,1,2023,South,Clothing,Dress,David Brown,12,79.61,0.15,690.22,549.02,141.2,20.46,5.0
+ORD-10667,2023-03-24,3,1,2023,West,Clothing,Sneakers,David Brown,25,90.67,0.05,1830.4,1252.6,577.8,31.57,3.7
+ORD-10333,2023-03-24,3,1,2023,South,Electronics,Tablet,Eva Martinez,13,468.94,0.2,4145.43,4212.32,-66.89,-1.61,5.0
+ORD-10109,2023-03-25,3,1,2023,North,Food & Beverage,Coffee Beans,David Brown,48,18.44,0.1,677.12,549.43,127.69,18.86,4.1
+ORD-10041,2023-03-25,3,1,2023,East,Food & Beverage,Olive Oil,Alice Johnson,43,16.54,0.2,483.63,398.19,85.44,17.67,3.8
+ORD-10684,2023-03-26,3,1,2023,South,Electronics,Headphones,Carol White,12,139.34,0.05,1350.2,919.88,430.32,31.87,3.3
+ORD-10108,2023-03-26,3,1,2023,North,Sports,Running Shoes,David Brown,5,111.04,0.2,377.54,337.56,39.98,10.59,4.0
+ORD-10745,2023-03-27,3,1,2023,West,Home & Garden,Plant Pot,David Brown,11,19.45,0.15,154.58,119.57,35.01,22.65,5.0
+ORD-10782,2023-03-28,3,1,2023,North,Home & Garden,Vacuum,Bob Smith,5,217.74,0.0,925.39,547.67,377.72,40.82,3.6
+ORD-10719,2023-03-28,3,1,2023,North,Clothing,Sneakers,Carol White,10,96.82,0.0,822.97,505.86,317.11,38.53,4.3
+ORD-10897,2023-03-28,3,1,2023,East,Home & Garden,Vacuum,Bob Smith,9,222.35,0.0,1700.98,1266.95,434.03,25.52,3.3
+ORD-10755,2023-03-29,3,1,2023,North,Food & Beverage,Olive Oil,Alice Johnson,16,13.86,0.2,150.8,123.21,27.59,18.3,4.1
+ORD-10135,2023-03-29,3,1,2023,East,Food & Beverage,Green Tea,David Brown,45,14.15,0.1,487.11,376.55,110.56,22.7,3.0
+ORD-10102,2023-03-30,3,1,2023,East,Food & Beverage,Energy Bars,Carol White,37,22.53,0.2,566.85,426.85,140.0,24.7,3.5
+ORD-10908,2023-03-31,3,1,2023,West,Sports,Running Shoes,Bob Smith,13,98.17,0.15,922.06,824.08,97.98,10.63,3.6
+ORD-10891,2023-03-31,3,1,2023,North,Home & Garden,Vacuum,Alice Johnson,1,194.2,0.05,156.82,129.53,27.29,17.4,4.4
+ORD-10233,2023-04-01,4,2,2023,North,Home & Garden,Plant Pot,Alice Johnson,36,21.64,0.2,560.91,434.76,126.15,22.49,4.7
+ORD-10284,2023-04-03,4,2,2023,East,Home & Garden,Plant Pot,Eva Martinez,47,19.94,0.2,674.77,470.73,204.04,30.24,4.0
+ORD-10123,2023-04-03,4,2,2023,West,Home & Garden,Plant Pot,Eva Martinez,49,19.53,0.2,689.02,550.68,138.34,20.08,3.7
+ORD-10652,2023-04-03,4,2,2023,North,Sports,Resistance Bands,Carol White,30,16.17,0.05,414.76,326.79,87.97,21.21,3.3
+ORD-10309,2023-04-06,4,2,2023,East,Electronics,Smart Watch,Bob Smith,1,337.94,0.1,273.73,194.46,79.27,28.96,4.2
+ORD-10238,2023-04-06,4,2,2023,West,Food & Beverage,Green Tea,Bob Smith,50,12.35,0.2,444.6,387.76,56.84,12.78,4.4
+ORD-10229,2023-04-06,4,2,2023,East,Home & Garden,Lamp,Alice Johnson,37,48.13,0.05,1522.59,1078.98,443.61,29.14,3.1
+ORD-10809,2023-04-06,4,2,2023,West,Home & Garden,Vacuum,Bob Smith,7,195.74,0.2,986.53,687.13,299.4,30.35,5.0
+ORD-10370,2023-04-07,4,2,2023,North,Home & Garden,Coffee Maker,David Brown,9,71.5,0.05,550.19,426.67,123.52,22.45,3.0
+ORD-10583,2023-04-07,4,2,2023,East,Food & Beverage,Green Tea,Eva Martinez,10,14.11,0.2,101.59,86.55,15.04,14.8,4.6
+ORD-10554,2023-04-09,4,2,2023,North,Food & Beverage,Olive Oil,Bob Smith,48,14.24,0.2,492.13,394.92,97.21,19.75,5.0
+ORD-10595,2023-04-11,4,2,2023,North,Electronics,Tablet,Alice Johnson,12,527.77,0.2,4559.93,3969.13,590.8,12.96,3.3
+ORD-10525,2023-04-13,4,2,2023,East,Sports,Water Bottle,David Brown,42,21.31,0.05,765.24,467.75,297.49,38.88,4.2
+ORD-10870,2023-04-14,4,2,2023,South,Home & Garden,Plant Pot,Bob Smith,22,18.9,0.05,355.51,210.57,144.94,40.77,3.8
+ORD-10742,2023-04-14,4,2,2023,South,Sports,Water Bottle,Alice Johnson,39,19.21,0.15,573.13,482.51,90.62,15.81,4.8
+ORD-10364,2023-04-14,4,2,2023,North,Home & Garden,Lamp,Eva Martinez,41,45.97,0.1,1526.66,1167.42,359.24,23.53,3.5
+ORD-10384,2023-04-15,4,2,2023,East,Electronics,Smart Watch,David Brown,4,319.66,0.15,978.16,850.26,127.9,13.08,5.0
+ORD-10998,2023-04-15,4,2,2023,North,Electronics,Headphones,Bob Smith,14,157.29,0.1,1783.67,1530.17,253.5,14.21,3.4
+ORD-10630,2023-04-15,4,2,2023,West,Food & Beverage,Coffee Beans,David Brown,8,18.5,0.1,119.88,76.0,43.88,36.6,4.1
+ORD-10844,2023-04-16,4,2,2023,East,Clothing,Sneakers,Eva Martinez,3,100.4,0.15,230.42,190.4,40.02,17.37,3.9
+ORD-10134,2023-04-16,4,2,2023,East,Electronics,Headphones,Carol White,11,161.37,0.2,1278.05,943.62,334.43,26.17,4.3
+ORD-10435,2023-04-18,4,2,2023,North,Clothing,Dress,David Brown,47,83.26,0.15,2993.61,2344.9,648.71,21.67,3.5
+ORD-10432,2023-04-19,4,2,2023,North,Clothing,Jacket,Alice Johnson,1,122.14,0.05,104.43,64.26,40.17,38.47,3.6
+ORD-10586,2023-04-19,4,2,2023,West,Home & Garden,Plant Pot,David Brown,36,20.1,0.0,651.24,387.24,264.0,40.54,3.8
+ORD-10874,2023-04-19,4,2,2023,East,Electronics,Headphones,Bob Smith,4,166.56,0.1,539.65,390.98,148.67,27.55,4.7
+ORD-10992,2023-04-19,4,2,2023,South,Home & Garden,Vacuum,Alice Johnson,7,199.05,0.2,1003.21,816.2,187.01,18.64,4.6
+ORD-10067,2023-04-21,4,2,2023,East,Sports,Resistance Bands,Eva Martinez,28,15.74,0.2,317.32,259.66,57.66,18.17,5.0
+ORD-10491,2023-04-23,4,2,2023,East,Food & Beverage,Olive Oil,David Brown,38,14.66,0.0,501.37,279.36,222.01,44.28,3.8
+ORD-10143,2023-04-25,4,2,2023,North,Clothing,Sneakers,David Brown,36,93.78,0.1,2734.62,1749.01,985.61,36.04,4.4
+ORD-10280,2023-04-25,4,2,2023,East,Clothing,Jacket,Carol White,3,133.91,0.15,307.32,252.95,54.37,17.69,5.0
+ORD-10314,2023-04-26,4,2,2023,East,Clothing,T-Shirt,Carol White,27,27.58,0.0,670.19,456.11,214.08,31.94,4.6
+ORD-10665,2023-04-26,4,2,2023,North,Sports,Water Bottle,Carol White,1,22.61,0.15,17.3,14.91,2.39,13.82,5.0
+ORD-10203,2023-04-26,4,2,2023,South,Home & Garden,Blender,David Brown,30,49.46,0.1,1201.88,972.82,229.06,19.06,3.9
+ORD-10739,2023-04-26,4,2,2023,East,Clothing,Jeans,David Brown,31,63.07,0.05,1671.67,1041.63,630.04,37.69,3.6
+ORD-10466,2023-04-28,4,2,2023,West,Home & Garden,Coffee Maker,Eva Martinez,25,69.57,0.05,1487.06,998.68,488.38,32.84,2.4
+ORD-10288,2023-04-28,4,2,2023,South,Clothing,Dress,Alice Johnson,34,76.9,0.15,2000.17,1583.49,416.68,20.83,4.6
+ORD-10295,2023-04-29,4,2,2023,North,Home & Garden,Lamp,Bob Smith,50,47.42,0.05,2027.2,1548.66,478.54,23.61,3.6
+ORD-10813,2023-04-29,4,2,2023,North,Food & Beverage,Olive Oil,Carol White,40,14.37,0.0,517.32,391.28,126.04,24.36,4.7
+ORD-10414,2023-04-29,4,2,2023,East,Sports,Dumbbells,Bob Smith,3,86.15,0.2,186.08,170.74,15.34,8.24,4.0
+ORD-10307,2023-04-30,4,2,2023,South,Clothing,T-Shirt,Bob Smith,30,26.65,0.0,719.55,489.68,229.87,31.95,3.9
+ORD-10125,2023-04-30,4,2,2023,West,Sports,Dumbbells,David Brown,3,74.96,0.05,192.27,135.03,57.24,29.77,4.5
+ORD-10863,2023-05-01,5,2,2023,West,Clothing,Sneakers,Alice Johnson,4,87.59,0.1,283.79,195.16,88.63,31.23,4.6
+ORD-10479,2023-05-02,5,2,2023,East,Home & Garden,Coffee Maker,Carol White,20,84.85,0.1,1374.57,943.65,430.92,31.35,4.3
+ORD-10021,2023-05-02,5,2,2023,South,Home & Garden,Blender,Eva Martinez,28,51.95,0.05,1243.68,997.54,246.14,19.79,3.7
+ORD-10064,2023-05-02,5,2,2023,North,Sports,Water Bottle,Eva Martinez,13,21.1,0.15,209.84,164.27,45.57,21.72,3.7
+ORD-10681,2023-05-02,5,2,2023,South,Home & Garden,Coffee Maker,Bob Smith,11,71.68,0.15,603.19,408.65,194.54,32.25,3.4
+ORD-10791,2023-05-02,5,2,2023,North,Home & Garden,Lamp,David Brown,11,44.85,0.1,399.61,322.45,77.16,19.31,4.0
+ORD-10952,2023-05-03,5,2,2023,South,Food & Beverage,Coffee Beans,David Brown,17,17.01,0.15,221.22,178.77,42.45,19.19,4.4
+ORD-10392,2023-05-05,5,2,2023,North,Clothing,Jeans,Alice Johnson,47,64.76,0.0,2739.35,1584.68,1154.67,42.15,4.6
+ORD-10237,2023-05-06,5,2,2023,West,Sports,Resistance Bands,Alice Johnson,9,16.23,0.1,118.32,91.8,26.52,22.41,3.8
+ORD-10601,2023-05-06,5,2,2023,West,Clothing,Dress,Bob Smith,42,80.49,0.15,2586.14,1705.47,880.67,34.05,4.5
+ORD-10160,2023-05-06,5,2,2023,West,Sports,Yoga Mat,David Brown,46,35.17,0.15,1237.63,832.69,404.94,32.72,4.5
+ORD-10272,2023-05-06,5,2,2023,South,Clothing,Dress,Carol White,36,66.61,0.1,1942.35,1264.82,677.53,34.88,3.4
+ORD-10458,2023-05-06,5,2,2023,South,Clothing,Jeans,Alice Johnson,3,58.73,0.1,142.71,88.8,53.91,37.78,4.1
+ORD-10925,2023-05-07,5,2,2023,East,Home & Garden,Plant Pot,Bob Smith,29,21.29,0.2,444.54,373.3,71.24,16.03,5.0
+ORD-10205,2023-05-08,5,2,2023,East,Food & Beverage,Coffee Beans,Eva Martinez,8,20.5,0.1,132.84,84.75,48.09,36.2,3.2
+ORD-10637,2023-05-09,5,2,2023,East,Food & Beverage,Green Tea,David Brown,37,14.0,0.1,419.58,309.85,109.73,26.15,4.1
+ORD-10605,2023-05-09,5,2,2023,South,Clothing,Jeans,Eva Martinez,10,53.45,0.2,384.84,354.96,29.88,7.76,3.7
+ORD-10493,2023-05-09,5,2,2023,North,Home & Garden,Plant Pot,Carol White,18,22.58,0.1,329.22,256.55,72.67,22.07,4.6
+ORD-10545,2023-05-10,5,2,2023,South,Food & Beverage,Protein Powder,Bob Smith,7,42.6,0.15,228.12,188.31,39.81,17.45,4.1
+ORD-10386,2023-05-12,5,2,2023,East,Electronics,Laptop,Alice Johnson,4,1361.74,0.0,4902.26,2858.82,2043.44,41.68,4.5
+ORD-10440,2023-05-12,5,2,2023,East,Food & Beverage,Olive Oil,Carol White,25,17.35,0.1,351.34,232.47,118.87,33.83,3.6
+ORD-10944,2023-05-12,5,2,2023,East,Clothing,Jeans,Alice Johnson,8,64.44,0.1,417.57,308.21,109.36,26.19,4.0
+ORD-10477,2023-05-13,5,2,2023,West,Electronics,Smartphone,Carol White,4,796.71,0.05,2724.75,1987.47,737.28,27.06,4.7
+ORD-10857,2023-05-14,5,2,2023,North,Electronics,Laptop,Bob Smith,1,1226.27,0.2,882.91,830.65,52.26,5.92,4.1
+ORD-10807,2023-05-14,5,2,2023,West,Clothing,Jacket,Bob Smith,11,118.92,0.15,1000.71,879.1,121.61,12.15,5.0
+ORD-10951,2023-05-15,5,2,2023,North,Food & Beverage,Energy Bars,Eva Martinez,44,24.45,0.2,774.58,661.02,113.56,14.66,4.5
+ORD-10129,2023-05-15,5,2,2023,North,Food & Beverage,Coffee Beans,Bob Smith,41,19.32,0.1,641.62,554.08,87.54,13.64,4.5
+ORD-10319,2023-05-16,5,2,2023,South,Food & Beverage,Coffee Beans,Eva Martinez,3,16.0,0.0,43.2,33.07,10.13,23.45,2.9
+ORD-10728,2023-05-17,5,2,2023,West,Clothing,Jacket,Carol White,11,124.52,0.1,1109.47,782.21,327.26,29.5,4.3
+ORD-10232,2023-05-18,5,2,2023,South,Electronics,Smartphone,Alice Johnson,4,755.73,0.05,2584.6,2054.79,529.81,20.5,3.7
+ORD-10915,2023-05-19,5,2,2023,South,Electronics,Laptop,Carol White,4,1180.37,0.0,4249.33,2926.27,1323.06,31.14,4.0
+ORD-10940,2023-05-19,5,2,2023,North,Sports,Water Bottle,Eva Martinez,43,22.01,0.0,851.79,495.78,356.01,41.8,4.9
+ORD-10112,2023-05-19,5,2,2023,North,Sports,Running Shoes,David Brown,6,112.77,0.1,548.06,429.0,119.06,21.72,4.8
+ORD-10480,2023-05-19,5,2,2023,North,Clothing,Sneakers,Carol White,48,97.54,0.15,3581.67,3065.75,515.92,14.4,5.0
+ORD-10984,2023-05-19,5,2,2023,West,Sports,Running Shoes,David Brown,15,108.93,0.0,1470.56,1086.38,384.18,26.12,4.6
+ORD-10253,2023-05-22,5,2,2023,West,Home & Garden,Blender,Alice Johnson,7,53.37,0.15,285.8,196.8,89.0,31.14,3.5
+ORD-10385,2023-05-22,5,2,2023,East,Home & Garden,Plant Pot,Carol White,36,22.78,0.2,590.46,431.46,159.0,26.93,3.8
+ORD-10344,2023-05-23,5,2,2023,South,Sports,Yoga Mat,Bob Smith,20,34.43,0.0,619.74,474.97,144.77,23.36,4.1
+ORD-10764,2023-05-25,5,2,2023,West,Clothing,Dress,Bob Smith,46,78.04,0.1,2907.77,2498.0,409.77,14.09,3.2
+ORD-10535,2023-05-26,5,2,2023,West,Home & Garden,Coffee Maker,David Brown,48,74.82,0.0,3232.22,1869.41,1362.81,42.16,4.1
+ORD-10810,2023-05-26,5,2,2023,South,Food & Beverage,Green Tea,David Brown,35,11.46,0.2,288.79,229.99,58.8,20.36,3.2
+ORD-10643,2023-05-26,5,2,2023,West,Clothing,Jeans,Carol White,24,54.49,0.15,1000.44,727.02,273.42,27.33,4.5
+ORD-10932,2023-05-28,5,2,2023,South,Food & Beverage,Olive Oil,Alice Johnson,7,14.17,0.2,71.42,64.74,6.68,9.35,3.0
+ORD-10777,2023-05-28,5,2,2023,South,Clothing,T-Shirt,David Brown,47,23.48,0.2,794.56,620.28,174.28,21.93,4.5
+ORD-10727,2023-05-28,5,2,2023,West,Food & Beverage,Coffee Beans,Alice Johnson,16,18.51,0.2,213.24,166.14,47.1,22.09,3.0
+ORD-10591,2023-05-29,5,2,2023,North,Sports,Running Shoes,Eva Martinez,1,120.8,0.05,103.28,80.89,22.39,21.68,2.8
+ORD-10204,2023-05-30,5,2,2023,West,Clothing,Sneakers,Eva Martinez,9,90.54,0.1,660.04,415.93,244.11,36.98,4.4
+ORD-10628,2023-05-31,5,2,2023,East,Home & Garden,Coffee Maker,Eva Martinez,17,89.4,0.2,1094.26,1007.06,87.2,7.97,4.5
+ORD-10876,2023-06-01,6,2,2023,North,Sports,Resistance Bands,David Brown,31,15.23,0.0,424.92,278.79,146.13,34.39,2.5
+ORD-10608,2023-06-01,6,2,2023,West,Clothing,Dress,Alice Johnson,12,77.31,0.15,709.71,631.15,78.56,11.07,4.3
+ORD-10002,2023-06-02,6,2,2023,North,Food & Beverage,Protein Powder,Eva Martinez,27,46.7,0.05,1078.07,743.73,334.34,31.01,3.7
+ORD-10252,2023-06-02,6,2,2023,West,Clothing,Sneakers,Eva Martinez,23,87.07,0.0,1802.35,1021.55,780.8,43.32,3.5
+ORD-10040,2023-06-03,6,2,2023,East,Clothing,T-Shirt,Alice Johnson,16,27.2,0.1,352.51,242.41,110.1,31.23,4.2
+ORD-10355,2023-06-07,6,2,2023,South,Sports,Running Shoes,David Brown,8,105.6,0.2,608.26,539.06,69.2,11.38,4.1
+ORD-10802,2023-06-07,6,2,2023,West,Clothing,T-Shirt,Alice Johnson,24,24.4,0.2,421.63,406.16,15.47,3.67,3.5
+ORD-10555,2023-06-08,6,2,2023,East,Electronics,Headphones,David Brown,7,163.43,0.1,926.65,792.99,133.66,14.42,4.2
+ORD-10638,2023-06-08,6,2,2023,East,Sports,Dumbbells,Eva Martinez,9,98.21,0.0,795.5,534.88,260.62,32.76,4.1
+ORD-10750,2023-06-08,6,2,2023,South,Sports,Resistance Bands,David Brown,3,14.8,0.05,37.96,30.3,7.66,20.18,3.5
+ORD-10579,2023-06-09,6,2,2023,South,Clothing,Sneakers,Bob Smith,40,89.7,0.1,2906.28,1933.45,972.83,33.47,3.8
+ORD-10548,2023-06-09,6,2,2023,East,Food & Beverage,Green Tea,Eva Martinez,41,13.25,0.05,464.48,293.45,171.03,36.82,2.5
+ORD-10339,2023-06-09,6,2,2023,West,Electronics,Laptop,Alice Johnson,3,1256.14,0.2,2713.26,1954.35,758.91,27.97,5.0
+ORD-10176,2023-06-09,6,2,2023,North,Home & Garden,Lamp,Alice Johnson,19,49.28,0.2,674.15,559.29,114.86,17.04,4.1
+ORD-10292,2023-06-10,6,2,2023,West,Sports,Resistance Bands,Alice Johnson,36,15.14,0.15,416.96,345.86,71.1,17.05,4.3
+ORD-10251,2023-06-12,6,2,2023,West,Sports,Running Shoes,David Brown,1,102.31,0.0,92.08,70.5,21.58,23.44,4.2
+ORD-10248,2023-06-12,6,2,2023,North,Home & Garden,Vacuum,David Brown,2,199.11,0.1,322.56,234.92,87.64,27.17,3.9
+ORD-10213,2023-06-12,6,2,2023,South,Clothing,T-Shirt,David Brown,1,22.6,0.2,16.27,12.89,3.38,20.77,4.7
+ORD-10259,2023-06-12,6,2,2023,South,Home & Garden,Blender,Carol White,11,52.51,0.15,441.87,403.24,38.63,8.74,4.6
+ORD-10841,2023-06-12,6,2,2023,West,Sports,Water Bottle,David Brown,47,19.1,0.0,807.93,545.82,262.11,32.44,4.0
+ORD-10391,2023-06-16,6,2,2023,West,Electronics,Laptop,Carol White,1,1222.81,0.15,935.45,781.14,154.31,16.5,4.5
+ORD-10892,2023-06-17,6,2,2023,East,Sports,Resistance Bands,Carol White,42,16.57,0.1,563.71,415.64,148.07,26.27,3.0
+ORD-10510,2023-06-17,6,2,2023,East,Sports,Dumbbells,Carol White,32,90.3,0.1,2340.58,1878.31,462.27,19.75,3.6
+ORD-10358,2023-06-18,6,2,2023,West,Home & Garden,Lamp,Alice Johnson,29,45.26,0.15,1004.09,739.99,264.1,26.3,4.2
+ORD-10069,2023-06-18,6,2,2023,West,Clothing,T-Shirt,David Brown,5,26.02,0.1,105.38,71.15,34.23,32.48,3.1
+ORD-10691,2023-06-20,6,2,2023,North,Electronics,Smartphone,Bob Smith,1,930.61,0.05,795.67,485.23,310.44,39.02,3.5
+ORD-10830,2023-06-22,6,2,2023,North,Sports,Running Shoes,Bob Smith,12,123.11,0.1,1196.63,813.09,383.54,32.05,3.9
+ORD-10910,2023-06-22,6,2,2023,East,Electronics,Smart Watch,David Brown,2,327.83,0.0,590.09,381.52,208.57,35.35,3.9
+ORD-10994,2023-06-23,6,2,2023,West,Sports,Water Bottle,Alice Johnson,15,19.36,0.05,248.29,156.27,92.02,37.06,4.2
+ORD-10812,2023-06-24,6,2,2023,East,Sports,Resistance Bands,Alice Johnson,34,18.05,0.2,441.86,317.71,124.15,28.1,5.0
+ORD-10933,2023-06-26,6,2,2023,South,Clothing,T-Shirt,Bob Smith,49,24.98,0.2,881.29,613.07,268.22,30.43,5.0
+ORD-10422,2023-06-27,6,2,2023,South,Sports,Water Bottle,Alice Johnson,10,19.16,0.1,155.2,99.36,55.84,35.98,4.3
+ORD-10035,2023-06-28,6,2,2023,South,Electronics,Smart Watch,Alice Johnson,14,290.15,0.05,3473.1,2086.72,1386.38,39.92,5.0
+ORD-10185,2023-06-28,6,2,2023,South,Home & Garden,Plant Pot,Bob Smith,16,19.02,0.0,273.89,161.07,112.82,41.19,4.1
+ORD-10687,2023-06-28,6,2,2023,South,Sports,Running Shoes,Carol White,9,112.19,0.1,817.87,596.55,221.32,27.06,3.9
+ORD-10132,2023-06-28,6,2,2023,West,Food & Beverage,Protein Powder,Bob Smith,12,44.43,0.0,479.84,331.57,148.27,30.9,2.9
+ORD-10173,2023-06-28,6,2,2023,South,Sports,Water Bottle,David Brown,22,17.62,0.05,331.43,222.51,108.92,32.86,2.9
+ORD-10824,2023-06-30,6,2,2023,South,Sports,Water Bottle,David Brown,17,20.13,0.05,292.59,207.41,85.18,29.11,5.0
+ORD-10313,2023-07-01,7,3,2023,East,Home & Garden,Plant Pot,Carol White,33,20.91,0.15,586.53,409.33,177.2,30.21,4.0
+ORD-10978,2023-07-01,7,3,2023,East,Electronics,Tablet,Eva Martinez,7,491.27,0.15,2923.06,2189.02,734.04,25.11,5.0
+ORD-10814,2023-07-02,7,3,2023,North,Sports,Water Bottle,Eva Martinez,31,21.07,0.2,522.54,422.45,100.09,19.15,4.8
+ORD-10016,2023-07-04,7,3,2023,East,Home & Garden,Coffee Maker,Carol White,28,82.44,0.05,2192.9,1363.63,829.27,37.82,3.2
+ORD-10290,2023-07-04,7,3,2023,South,Clothing,T-Shirt,Eva Martinez,29,24.15,0.0,700.35,445.46,254.89,36.39,3.5
+ORD-10563,2023-07-04,7,3,2023,West,Electronics,Tablet,Bob Smith,15,507.57,0.05,7232.87,4816.84,2416.03,33.4,3.4
+ORD-10865,2023-07-05,7,3,2023,South,Clothing,Jacket,David Brown,9,112.73,0.0,1014.57,521.66,492.91,48.58,3.6
+ORD-10569,2023-07-05,7,3,2023,North,Electronics,Smartphone,Bob Smith,4,865.09,0.0,3460.36,1872.46,1587.9,45.89,4.3
+ORD-10651,2023-07-06,7,3,2023,South,Home & Garden,Plant Pot,Carol White,44,18.83,0.2,662.82,495.04,167.78,25.31,3.7
+ORD-10847,2023-07-08,7,3,2023,East,Sports,Resistance Bands,David Brown,2,16.6,0.0,33.2,18.85,14.35,43.22,5.0
+ORD-10661,2023-07-08,7,3,2023,East,Food & Beverage,Energy Bars,Bob Smith,45,24.11,0.2,867.96,580.89,287.07,33.07,4.5
+ORD-10034,2023-07-10,7,3,2023,North,Home & Garden,Coffee Maker,Alice Johnson,38,80.17,0.15,2589.49,1829.61,759.88,29.34,3.6
+ORD-10220,2023-07-11,7,3,2023,West,Home & Garden,Coffee Maker,Bob Smith,19,76.44,0.1,1307.12,976.61,330.51,25.29,4.0
+ORD-10215,2023-07-12,7,3,2023,North,Sports,Water Bottle,Alice Johnson,41,19.76,0.15,688.64,564.04,124.6,18.09,2.7
+ORD-10900,2023-07-14,7,3,2023,East,Home & Garden,Lamp,Carol White,49,54.21,0.2,2125.03,1682.43,442.6,20.83,4.2
+ORD-10420,2023-07-14,7,3,2023,South,Clothing,Jacket,David Brown,1,113.72,0.05,108.03,69.18,38.85,35.96,4.4
+ORD-10986,2023-07-15,7,3,2023,East,Sports,Yoga Mat,Alice Johnson,42,39.76,0.05,1586.42,1045.42,541.0,34.1,4.0
+ORD-10578,2023-07-15,7,3,2023,North,Home & Garden,Vacuum,Carol White,4,202.77,0.15,689.42,552.45,136.97,19.87,5.0
+ORD-10714,2023-07-16,7,3,2023,West,Home & Garden,Coffee Maker,David Brown,33,74.17,0.15,2080.47,1602.61,477.86,22.97,3.9
+ORD-10094,2023-07-18,7,3,2023,East,Home & Garden,Lamp,Carol White,20,47.4,0.1,853.2,517.71,335.49,39.32,2.9
+ORD-10349,2023-07-18,7,3,2023,North,Sports,Dumbbells,David Brown,19,87.88,0.0,1669.72,1108.35,561.37,33.62,3.7
+ORD-10438,2023-07-18,7,3,2023,West,Electronics,Laptop,Carol White,4,1168.94,0.05,4441.97,2729.93,1712.04,38.54,4.1
+ORD-10114,2023-07-18,7,3,2023,North,Sports,Yoga Mat,Carol White,17,35.44,0.1,542.23,315.21,227.02,41.87,4.5
+ORD-10256,2023-07-18,7,3,2023,East,Food & Beverage,Olive Oil,Alice Johnson,9,15.22,0.0,136.98,79.28,57.7,42.12,3.2
+ORD-10702,2023-07-18,7,3,2023,East,Home & Garden,Lamp,David Brown,26,51.97,0.0,1351.22,871.89,479.33,35.47,3.3
+ORD-10690,2023-07-19,7,3,2023,South,Food & Beverage,Green Tea,Carol White,27,11.79,0.1,286.5,166.2,120.3,41.99,3.7
+ORD-10236,2023-07-19,7,3,2023,South,Food & Beverage,Coffee Beans,Alice Johnson,20,15.8,0.15,268.6,221.17,47.43,17.66,5.0
+ORD-10327,2023-07-20,7,3,2023,West,Electronics,Laptop,Bob Smith,1,1354.4,0.15,1151.24,906.18,245.06,21.29,4.1
+ORD-10418,2023-07-21,7,3,2023,West,Electronics,Tablet,Bob Smith,5,538.76,0.2,2155.04,1769.56,385.48,17.89,3.5
+ORD-10154,2023-07-22,7,3,2023,South,Food & Beverage,Protein Powder,Bob Smith,22,43.92,0.05,917.93,635.52,282.41,30.77,3.8
+ORD-10645,2023-07-23,7,3,2023,West,Sports,Dumbbells,Bob Smith,48,81.55,0.05,3718.68,2327.49,1391.19,37.41,5.0
+ORD-10797,2023-07-23,7,3,2023,North,Sports,Dumbbells,Carol White,26,74.08,0.0,1926.08,1193.5,732.58,38.03,3.1
+ORD-10698,2023-07-26,7,3,2023,West,Electronics,Smart Watch,Carol White,11,279.79,0.15,2616.04,1971.29,644.75,24.65,3.4
+ORD-10924,2023-07-27,7,3,2023,North,Sports,Water Bottle,Alice Johnson,8,22.02,0.05,167.35,120.61,46.74,27.93,4.2
+ORD-10499,2023-07-27,7,3,2023,South,Home & Garden,Coffee Maker,Bob Smith,23,69.22,0.05,1512.46,1033.0,479.46,31.7,4.3
+ORD-10341,2023-07-27,7,3,2023,South,Food & Beverage,Olive Oil,Bob Smith,44,12.95,0.15,484.33,304.22,180.11,37.19,4.4
+ORD-10617,2023-07-27,7,3,2023,West,Home & Garden,Plant Pot,Eva Martinez,23,19.2,0.15,375.36,285.78,89.58,23.87,5.0
+ORD-10971,2023-07-28,7,3,2023,West,Sports,Yoga Mat,Bob Smith,11,35.47,0.1,351.15,205.73,145.42,41.41,3.8
+ORD-10884,2023-07-29,7,3,2023,South,Clothing,T-Shirt,Bob Smith,35,23.9,0.0,836.5,526.83,309.67,37.02,4.2
+ORD-10371,2023-07-30,7,3,2023,West,Sports,Water Bottle,David Brown,46,19.38,0.15,757.76,532.87,224.89,29.68,4.1
+ORD-10167,2023-07-30,7,3,2023,East,Electronics,Headphones,Carol White,14,173.04,0.15,2059.18,1631.88,427.3,20.75,4.0
+ORD-10394,2023-07-31,7,3,2023,North,Food & Beverage,Protein Powder,David Brown,23,47.08,0.05,1028.7,677.44,351.26,34.15,2.7
+ORD-10476,2023-07-31,7,3,2023,North,Home & Garden,Blender,Carol White,27,54.14,0.1,1315.6,842.88,472.72,35.93,5.0
+ORD-10187,2023-08-01,8,3,2023,West,Food & Beverage,Olive Oil,Carol White,41,15.51,0.1,572.32,337.15,235.17,41.09,3.5
+ORD-10330,2023-08-01,8,3,2023,North,Clothing,T-Shirt,Alice Johnson,14,25.5,0.2,285.6,188.8,96.8,33.89,3.8
+ORD-10081,2023-08-01,8,3,2023,South,Sports,Running Shoes,Carol White,3,110.55,0.2,265.32,206.1,59.22,22.32,3.6
+ORD-10816,2023-08-01,8,3,2023,East,Electronics,Headphones,Eva Martinez,3,159.69,0.2,383.26,244.48,138.78,36.21,4.9
+ORD-10901,2023-08-02,8,3,2023,West,Home & Garden,Coffee Maker,David Brown,3,72.34,0.05,206.17,137.94,68.23,33.09,2.8
+ORD-10711,2023-08-02,8,3,2023,South,Home & Garden,Blender,Bob Smith,10,51.3,0.0,513.0,325.61,187.39,36.53,3.2
+ORD-10593,2023-08-03,8,3,2023,South,Sports,Running Shoes,Alice Johnson,4,99.37,0.15,337.86,217.16,120.7,35.72,3.9
+ORD-10751,2023-08-03,8,3,2023,South,Clothing,Sneakers,Bob Smith,50,82.0,0.0,4100.0,2394.06,1705.94,41.61,3.8
+ORD-10011,2023-08-04,8,3,2023,East,Clothing,Jeans,David Brown,42,66.22,0.15,2364.05,1470.09,893.96,37.81,3.1
+ORD-10412,2023-08-04,8,3,2023,South,Home & Garden,Vacuum,Carol White,13,185.77,0.0,2415.01,1639.44,775.57,32.11,4.8
+ORD-10401,2023-08-06,8,3,2023,West,Home & Garden,Blender,Bob Smith,49,55.26,0.15,2301.58,1870.75,430.83,18.72,3.8
+ORD-10527,2023-08-06,8,3,2023,West,Clothing,Dress,David Brown,50,77.8,0.1,3501.0,2420.64,1080.36,30.86,3.5
+ORD-10871,2023-08-06,8,3,2023,North,Home & Garden,Vacuum,Alice Johnson,14,210.74,0.15,2507.81,1745.77,762.04,30.39,4.9
+ORD-10378,2023-08-07,8,3,2023,East,Food & Beverage,Green Tea,Eva Martinez,35,13.53,0.05,449.87,267.43,182.44,40.55,4.0
+ORD-10214,2023-08-08,8,3,2023,West,Clothing,Jacket,Eva Martinez,6,126.35,0.0,758.1,523.61,234.49,30.93,2.6
+ORD-10026,2023-08-08,8,3,2023,West,Clothing,Jeans,David Brown,13,57.97,0.0,753.61,391.41,362.2,48.06,4.2
+ORD-10705,2023-08-09,8,3,2023,South,Electronics,Laptop,David Brown,3,1215.71,0.05,3464.77,1924.52,1540.25,44.45,4.3
+ORD-10603,2023-08-10,8,3,2023,South,Electronics,Smartphone,Carol White,2,733.32,0.2,1173.31,1014.4,158.91,13.54,3.7
+ORD-10959,2023-08-10,8,3,2023,North,Sports,Yoga Mat,Bob Smith,22,36.44,0.15,681.43,481.45,199.98,29.35,3.8
+ORD-10520,2023-08-11,8,3,2023,West,Clothing,Jacket,Eva Martinez,2,130.1,0.0,260.2,177.18,83.02,31.91,3.5
+ORD-10962,2023-08-11,8,3,2023,West,Clothing,Dress,Alice Johnson,46,88.3,0.2,3249.44,2107.86,1141.58,35.13,3.6
+ORD-10137,2023-08-12,8,3,2023,East,Home & Garden,Coffee Maker,David Brown,18,78.45,0.0,1412.1,865.88,546.22,38.68,4.1
+ORD-10629,2023-08-12,8,3,2023,East,Sports,Water Bottle,Eva Martinez,31,21.22,0.05,624.93,428.57,196.36,31.42,3.9
+ORD-10627,2023-08-12,8,3,2023,North,Home & Garden,Vacuum,David Brown,9,222.89,0.0,2006.01,1227.13,778.88,38.83,3.0
+ORD-10303,2023-08-13,8,3,2023,East,Food & Beverage,Olive Oil,Carol White,16,14.8,0.1,213.12,159.9,53.22,24.97,3.1
+ORD-10717,2023-08-13,8,3,2023,North,Electronics,Headphones,David Brown,6,156.18,0.1,843.37,504.24,339.13,40.21,4.2
+ORD-10073,2023-08-13,8,3,2023,West,Sports,Yoga Mat,Carol White,20,32.84,0.15,558.28,440.51,117.77,21.1,3.2
+ORD-10411,2023-08-14,8,3,2023,North,Sports,Water Bottle,Eva Martinez,24,23.41,0.0,561.84,337.06,224.78,40.01,3.5
+ORD-10244,2023-08-14,8,3,2023,East,Clothing,Dress,David Brown,40,95.42,0.0,3816.8,2288.58,1528.22,40.04,4.4
+ORD-10800,2023-08-15,8,3,2023,West,Clothing,Sneakers,Carol White,20,89.18,0.2,1426.88,1175.16,251.72,17.64,5.0
+ORD-10873,2023-08-15,8,3,2023,South,Electronics,Headphones,Eva Martinez,8,149.45,0.05,1135.82,739.26,396.56,34.91,4.3
+ORD-10759,2023-08-16,8,3,2023,East,Electronics,Laptop,Carol White,3,1252.4,0.1,3381.48,2553.04,828.44,24.5,5.0
+ORD-10885,2023-08-18,8,3,2023,South,Clothing,T-Shirt,Carol White,18,23.8,0.2,342.72,272.48,70.24,20.49,5.0
+ORD-10799,2023-08-18,8,3,2023,North,Clothing,Sneakers,David Brown,35,94.6,0.1,2979.9,1913.75,1066.15,35.78,3.5
+ORD-10856,2023-08-19,8,3,2023,North,Clothing,Jacket,Eva Martinez,7,112.31,0.05,746.86,395.54,351.32,47.04,4.5
+ORD-10879,2023-08-21,8,3,2023,North,Sports,Water Bottle,Bob Smith,46,22.69,0.15,887.18,560.48,326.7,36.82,5.0
+ORD-10291,2023-08-21,8,3,2023,West,Electronics,Smart Watch,David Brown,13,309.49,0.0,4023.37,2376.55,1646.82,40.93,5.0
+ORD-10013,2023-08-21,8,3,2023,West,Home & Garden,Vacuum,Bob Smith,9,188.49,0.15,1441.95,879.05,562.9,39.04,4.4
+ORD-10442,2023-08-22,8,3,2023,South,Clothing,Jacket,Bob Smith,11,117.89,0.05,1231.95,717.52,514.43,41.76,5.0
+ORD-10680,2023-08-22,8,3,2023,North,Sports,Dumbbells,Alice Johnson,3,83.94,0.2,201.46,165.37,36.09,17.91,4.6
+ORD-10162,2023-08-23,8,3,2023,East,Sports,Resistance Bands,Eva Martinez,19,15.67,0.15,253.07,178.97,74.1,29.28,3.3
+ORD-10747,2023-08-23,8,3,2023,South,Sports,Water Bottle,Carol White,29,20.47,0.0,593.63,318.05,275.58,46.42,5.0
+ORD-10509,2023-08-26,8,3,2023,East,Clothing,Jacket,Alice Johnson,5,129.89,0.1,584.5,383.95,200.55,34.31,4.3
+ORD-10512,2023-08-27,8,3,2023,South,Electronics,Tablet,Alice Johnson,7,516.03,0.1,3250.99,2363.29,887.7,27.31,4.3
+ORD-10126,2023-08-28,8,3,2023,East,Electronics,Headphones,Alice Johnson,9,182.51,0.15,1396.2,826.34,569.86,40.82,4.8
+ORD-10589,2023-08-28,8,3,2023,South,Electronics,Smart Watch,Carol White,9,270.91,0.2,1950.55,1449.31,501.24,25.7,3.4
+ORD-10748,2023-08-28,8,3,2023,South,Sports,Yoga Mat,Carol White,21,36.68,0.05,731.77,495.81,235.96,32.25,4.7
+ORD-10956,2023-08-30,8,3,2023,North,Electronics,Tablet,Alice Johnson,6,541.75,0.05,3087.97,1638.06,1449.91,46.95,4.3
+ORD-10301,2023-09-01,9,3,2023,North,Sports,Resistance Bands,Alice Johnson,16,16.43,0.0,262.88,152.59,110.29,41.95,4.7
+ORD-10774,2023-09-02,9,3,2023,North,Home & Garden,Plant Pot,Alice Johnson,18,21.8,0.15,333.54,203.01,130.53,39.13,5.0
+ORD-10015,2023-09-03,9,3,2023,West,Food & Beverage,Green Tea,Eva Martinez,1,11.64,0.0,11.64,7.41,4.23,36.34,5.0
+ORD-10155,2023-09-03,9,3,2023,North,Home & Garden,Vacuum,Bob Smith,9,207.71,0.1,1682.45,1233.24,449.21,26.7,4.8
+ORD-10368,2023-09-03,9,3,2023,South,Food & Beverage,Energy Bars,David Brown,12,21.17,0.15,215.93,159.31,56.62,26.22,4.8
+ORD-10153,2023-09-04,9,3,2023,North,Electronics,Tablet,Bob Smith,3,558.54,0.2,1340.5,906.58,433.92,32.37,3.8
+ORD-10666,2023-09-04,9,3,2023,South,Electronics,Smart Watch,Carol White,4,281.96,0.15,958.66,762.91,195.75,20.42,5.0
+ORD-10662,2023-09-04,9,3,2023,West,Food & Beverage,Energy Bars,Eva Martinez,41,22.07,0.2,723.9,508.48,215.42,29.76,2.8
+ORD-10340,2023-09-05,9,3,2023,East,Sports,Yoga Mat,Carol White,27,39.89,0.15,915.48,706.35,209.13,22.84,3.3
+ORD-10121,2023-09-06,9,3,2023,South,Electronics,Tablet,David Brown,6,486.99,0.2,2337.55,1617.1,720.45,30.82,4.8
+ORD-10604,2023-09-06,9,3,2023,North,Home & Garden,Coffee Maker,Bob Smith,29,73.23,0.2,1698.94,1483.5,215.44,12.68,5.0
+ORD-10609,2023-09-07,9,3,2023,North,Food & Beverage,Olive Oil,Alice Johnson,6,14.09,0.15,71.86,53.42,18.44,25.66,5.0
+ORD-10620,2023-09-07,9,3,2023,West,Electronics,Laptop,Carol White,2,1177.25,0.1,2119.05,1214.94,904.11,42.67,3.9
+ORD-10495,2023-09-07,9,3,2023,West,Home & Garden,Vacuum,Alice Johnson,11,202.08,0.15,1889.45,1554.89,334.56,17.71,2.7
+ORD-10453,2023-09-09,9,3,2023,East,Food & Beverage,Protein Powder,Eva Martinez,7,46.13,0.15,274.47,170.54,103.93,37.87,4.6
+ORD-10600,2023-09-09,9,3,2023,North,Clothing,Jeans,Carol White,47,63.39,0.0,2979.33,1776.58,1202.75,40.37,3.5
+ORD-10710,2023-09-09,9,3,2023,North,Sports,Yoga Mat,Carol White,34,37.74,0.0,1283.16,723.53,559.63,43.61,4.6
+ORD-10610,2023-09-10,9,3,2023,North,Sports,Resistance Bands,David Brown,24,14.81,0.0,355.44,227.31,128.13,36.05,4.0
+ORD-10792,2023-09-11,9,3,2023,South,Food & Beverage,Coffee Beans,David Brown,46,17.47,0.0,803.62,454.19,349.43,43.48,4.3
+ORD-10243,2023-09-12,9,3,2023,East,Food & Beverage,Coffee Beans,Alice Johnson,6,19.16,0.0,114.96,79.29,35.67,31.03,3.0
+ORD-10310,2023-09-12,9,3,2023,North,Electronics,Smartphone,Eva Martinez,5,806.8,0.05,3832.3,2403.78,1428.52,37.28,4.2
+ORD-10732,2023-09-12,9,3,2023,East,Sports,Resistance Bands,Bob Smith,14,16.02,0.05,213.07,138.2,74.87,35.14,4.3
+ORD-10546,2023-09-13,9,3,2023,East,Food & Beverage,Energy Bars,David Brown,39,25.08,0.05,929.21,542.58,386.63,41.61,3.9
+ORD-10980,2023-09-13,9,3,2023,North,Electronics,Smartphone,Carol White,5,837.69,0.15,3560.18,2353.3,1206.88,33.9,4.3
+ORD-10587,2023-09-14,9,3,2023,North,Home & Garden,Vacuum,Eva Martinez,4,202.08,0.1,727.49,522.75,204.74,28.14,3.8
+ORD-10247,2023-09-14,9,3,2023,South,Home & Garden,Plant Pot,Carol White,26,20.45,0.05,505.11,346.74,158.37,31.35,4.3
+ORD-10490,2023-09-15,9,3,2023,East,Home & Garden,Lamp,David Brown,23,51.44,0.15,1005.65,651.19,354.46,35.25,4.4
+ORD-10377,2023-09-17,9,3,2023,West,Clothing,Dress,Bob Smith,14,76.2,0.05,1013.46,705.25,308.21,30.41,5.0
+ORD-10202,2023-09-18,9,3,2023,East,Sports,Dumbbells,Eva Martinez,16,86.02,0.1,1238.69,953.95,284.74,22.99,4.4
+ORD-10365,2023-09-18,9,3,2023,West,Food & Beverage,Coffee Beans,Carol White,23,18.18,0.15,355.42,260.7,94.72,26.65,3.4
+ORD-10860,2023-09-19,9,3,2023,North,Home & Garden,Plant Pot,David Brown,1,21.54,0.2,17.23,11.79,5.44,31.57,4.0
+ORD-10737,2023-09-19,9,3,2023,East,Food & Beverage,Olive Oil,Eva Martinez,15,14.8,0.2,177.6,121.31,56.29,31.69,4.7
+ORD-10592,2023-09-21,9,3,2023,South,Food & Beverage,Protein Powder,David Brown,11,40.63,0.05,424.58,274.09,150.49,35.44,4.6
+ORD-10451,2023-09-21,9,3,2023,East,Clothing,Dress,Bob Smith,25,88.13,0.1,1982.92,1425.06,557.86,28.13,4.9
+ORD-10150,2023-09-23,9,3,2023,West,Home & Garden,Coffee Maker,Carol White,14,71.89,0.15,855.49,592.74,262.75,30.71,3.7
+ORD-10273,2023-09-23,9,3,2023,South,Clothing,Jacket,Eva Martinez,4,117.29,0.05,445.7,239.51,206.19,46.26,3.8
+ORD-10670,2023-09-25,9,3,2023,West,Home & Garden,Blender,David Brown,13,55.44,0.1,648.65,363.16,285.49,44.01,4.0
+ORD-10883,2023-09-26,9,3,2023,North,Home & Garden,Plant Pot,Bob Smith,42,23.28,0.2,782.21,626.72,155.49,19.88,4.1
+ORD-10682,2023-09-26,9,3,2023,East,Electronics,Laptop,Carol White,2,1398.97,0.2,2238.35,1841.87,396.48,17.71,4.1
+ORD-10146,2023-09-27,9,3,2023,East,Food & Beverage,Protein Powder,Alice Johnson,41,48.04,0.15,1674.19,1343.05,331.14,19.78,4.7
+ORD-10037,2023-09-27,9,3,2023,North,Sports,Resistance Bands,Eva Martinez,34,13.69,0.1,418.91,319.74,99.17,23.67,4.6
+ORD-10794,2023-09-28,9,3,2023,South,Food & Beverage,Protein Powder,David Brown,25,40.98,0.0,1024.5,582.06,442.44,43.19,3.9
+ORD-10783,2023-09-30,9,3,2023,North,Clothing,Dress,Carol White,36,84.28,0.1,2730.67,1681.52,1049.15,38.42,4.4
+ORD-10116,2023-09-30,9,3,2023,West,Sports,Yoga Mat,Bob Smith,18,35.08,0.2,505.15,332.27,172.88,34.22,3.7
+ORD-10419,2023-09-30,9,3,2023,South,Sports,Running Shoes,Eva Martinez,8,109.64,0.05,833.26,567.05,266.21,31.95,3.8
+ORD-10513,2023-10-01,10,4,2023,North,Food & Beverage,Coffee Beans,Alice Johnson,42,18.94,0.0,954.58,405.41,549.17,57.53,3.9
+ORD-10549,2023-10-02,10,4,2023,East,Home & Garden,Vacuum,Bob Smith,9,230.08,0.2,1987.89,1322.91,664.98,33.45,4.4
+ORD-10561,2023-10-03,10,4,2023,East,Sports,Resistance Bands,Eva Martinez,23,17.03,0.0,470.03,257.26,212.77,45.27,3.0
+ORD-10106,2023-10-03,10,4,2023,South,Sports,Yoga Mat,Eva Martinez,15,34.84,0.05,595.76,356.25,239.51,40.2,4.4
+ORD-10508,2023-10-04,10,4,2023,South,Clothing,T-Shirt,Carol White,9,22.98,0.0,248.18,119.28,128.9,51.94,3.5
+ORD-10588,2023-10-04,10,4,2023,North,Electronics,Laptop,Eva Martinez,1,1153.34,0.2,1107.21,710.2,397.01,35.86,4.1
+ORD-10862,2023-10-04,10,4,2023,South,Home & Garden,Coffee Maker,Bob Smith,8,67.92,0.05,619.43,346.15,273.28,44.12,4.7
+ORD-10140,2023-10-05,10,4,2023,North,Home & Garden,Lamp,Alice Johnson,38,47.52,0.1,1950.22,1167.37,782.85,40.14,4.5
+ORD-10245,2023-10-05,10,4,2023,East,Home & Garden,Lamp,Bob Smith,44,49.48,0.15,2220.66,1218.07,1002.59,45.15,5.0
+ORD-10006,2023-10-06,10,4,2023,East,Food & Beverage,Protein Powder,Alice Johnson,3,50.1,0.05,171.34,98.39,72.95,42.58,2.6
+ORD-10920,2023-10-06,10,4,2023,South,Electronics,Smart Watch,Bob Smith,9,283.17,0.1,2752.41,1718.95,1033.46,37.55,2.7
+ORD-10756,2023-10-06,10,4,2023,South,Electronics,Smartphone,Bob Smith,1,732.76,0.1,791.38,371.76,419.62,53.02,2.7
+ORD-10787,2023-10-07,10,4,2023,West,Food & Beverage,Green Tea,Carol White,22,12.28,0.05,307.98,173.6,134.38,43.63,3.9
+ORD-10851,2023-10-10,10,4,2023,North,Home & Garden,Coffee Maker,David Brown,40,81.25,0.05,3705.0,2167.98,1537.02,41.49,4.7
+ORD-10631,2023-10-11,10,4,2023,South,Clothing,T-Shirt,David Brown,23,24.39,0.2,538.53,340.58,197.95,36.76,3.6
+ORD-10557,2023-10-11,10,4,2023,East,Food & Beverage,Olive Oil,Eva Martinez,13,15.52,0.05,230.01,112.75,117.26,50.98,4.2
+ORD-10701,2023-10-11,10,4,2023,West,Home & Garden,Blender,Bob Smith,37,58.26,0.2,2069.4,1170.04,899.36,43.46,4.7
+ORD-10961,2023-10-13,10,4,2023,North,Food & Beverage,Protein Powder,Carol White,17,44.72,0.0,912.29,425.33,486.96,53.38,4.0
+ORD-10086,2023-10-13,10,4,2023,West,Clothing,Jeans,Bob Smith,47,59.77,0.2,2696.82,1947.03,749.79,27.8,4.4
+ORD-10421,2023-10-14,10,4,2023,North,Home & Garden,Coffee Maker,David Brown,48,74.33,0.1,3853.27,1858.09,1995.18,51.78,4.3
+ORD-10424,2023-10-15,10,4,2023,West,Electronics,Smart Watch,Eva Martinez,1,290.43,0.15,296.24,183.69,112.55,37.99,3.7
+ORD-10537,2023-10-15,10,4,2023,East,Food & Beverage,Olive Oil,Bob Smith,42,16.17,0.15,692.72,468.65,224.07,32.35,3.8
+ORD-10045,2023-10-15,10,4,2023,East,Clothing,Jeans,Eva Martinez,46,66.32,0.15,3111.73,1867.59,1244.14,39.98,4.8
+ORD-10736,2023-10-15,10,4,2023,East,Clothing,Sneakers,Alice Johnson,9,98.34,0.05,1008.97,447.17,561.8,55.68,3.9
+ORD-10832,2023-10-16,10,4,2023,North,Electronics,Laptop,Eva Martinez,2,1341.71,0.15,2737.09,1693.99,1043.1,38.11,4.1
+ORD-10688,2023-10-16,10,4,2023,West,Clothing,Jacket,Eva Martinez,14,115.99,0.1,1753.77,1063.96,689.81,39.33,4.7
+ORD-10967,2023-10-16,10,4,2023,West,Food & Beverage,Coffee Beans,Eva Martinez,13,20.38,0.1,286.14,156.98,129.16,45.14,2.9
+ORD-10400,2023-10-16,10,4,2023,North,Food & Beverage,Coffee Beans,Carol White,21,19.79,0.05,473.77,239.95,233.82,49.35,3.5
+ORD-10282,2023-10-17,10,4,2023,West,Sports,Resistance Bands,Carol White,6,15.9,0.15,97.31,60.47,36.84,37.86,3.8
+ORD-10000,2023-10-17,10,4,2023,North,Electronics,Tablet,Bob Smith,4,538.04,0.05,2453.46,1393.08,1060.38,43.22,3.8
+ORD-10653,2023-10-18,10,4,2023,East,Sports,Resistance Bands,Eva Martinez,26,16.52,0.0,515.42,221.56,293.86,57.01,3.8
+ORD-10987,2023-10-19,10,4,2023,South,Electronics,Headphones,Bob Smith,11,142.37,0.1,1691.36,881.3,810.06,47.89,3.7
+ORD-10585,2023-10-19,10,4,2023,West,Home & Garden,Plant Pot,Bob Smith,44,20.76,0.1,986.52,617.1,369.42,37.45,4.2
+ORD-10318,2023-10-20,10,4,2023,West,Sports,Dumbbells,Carol White,11,83.29,0.05,1044.46,590.08,454.38,43.5,4.0
+ORD-10532,2023-10-21,10,4,2023,South,Food & Beverage,Energy Bars,David Brown,11,20.52,0.0,270.86,146.78,124.08,45.81,3.0
+ORD-10439,2023-10-21,10,4,2023,South,Food & Beverage,Coffee Beans,David Brown,46,17.09,0.1,849.03,468.49,380.54,44.82,4.8
+ORD-10521,2023-10-22,10,4,2023,South,Sports,Running Shoes,Carol White,8,110.14,0.0,1057.34,458.15,599.19,56.67,3.8
+ORD-10328,2023-10-23,10,4,2023,East,Food & Beverage,Coffee Beans,Eva Martinez,3,19.81,0.05,67.75,32.23,35.52,52.43,3.9
+ORD-10354,2023-10-23,10,4,2023,West,Home & Garden,Lamp,Alice Johnson,1,40.32,0.0,48.38,22.25,26.13,54.01,5.0
+ORD-10837,2023-10-23,10,4,2023,West,Electronics,Smartphone,Eva Martinez,4,864.62,0.05,3942.67,2153.92,1788.75,45.37,3.7
+ORD-10028,2023-10-24,10,4,2023,North,Electronics,Headphones,Carol White,13,150.89,0.0,2353.88,1078.34,1275.54,54.19,3.6
+ORD-10296,2023-10-24,10,4,2023,West,Home & Garden,Lamp,David Brown,25,46.08,0.15,1175.04,594.49,580.55,49.41,4.3
+ORD-10276,2023-10-24,10,4,2023,North,Electronics,Smart Watch,Bob Smith,9,333.39,0.0,3600.61,2048.29,1552.32,43.11,4.0
+ORD-10092,2023-10-24,10,4,2023,West,Sports,Yoga Mat,Alice Johnson,19,34.61,0.05,749.65,381.98,367.67,49.05,4.4
+ORD-10833,2023-10-26,10,4,2023,South,Electronics,Smartphone,Carol White,3,722.03,0.15,2209.41,1369.18,840.23,38.03,3.7
+ORD-10565,2023-10-27,10,4,2023,North,Electronics,Tablet,David Brown,4,533.44,0.2,2048.41,1458.9,589.51,28.78,4.5
+ORD-10389,2023-10-27,10,4,2023,South,Electronics,Headphones,Carol White,12,141.97,0.05,1942.15,998.07,944.08,48.61,4.3
+ORD-10209,2023-10-28,10,4,2023,East,Clothing,Sneakers,Alice Johnson,19,104.84,0.15,2031.8,1273.29,758.51,37.33,4.1
+ORD-10406,2023-10-28,10,4,2023,North,Home & Garden,Lamp,Bob Smith,4,50.67,0.05,231.06,104.83,126.23,54.63,4.0
+ORD-10793,2023-10-28,10,4,2023,North,Home & Garden,Blender,David Brown,26,58.26,0.2,1454.17,882.63,571.54,39.3,3.9
+ORD-10615,2023-10-30,10,4,2023,East,Home & Garden,Blender,David Brown,37,58.81,0.1,2350.05,1354.27,995.78,42.37,3.0
+ORD-10827,2023-10-30,10,4,2023,East,Home & Garden,Plant Pot,Carol White,7,22.37,0.1,169.12,98.79,70.33,41.59,3.8
+ORD-10494,2023-10-30,10,4,2023,East,Clothing,Sneakers,Eva Martinez,49,97.91,0.05,5469.25,3262.06,2207.19,40.36,3.9
+ORD-10285,2023-11-01,11,4,2023,East,Clothing,Jacket,Alice Johnson,8,132.12,0.1,1141.52,562.24,579.28,50.75,5.0
+ORD-10461,2023-11-01,11,4,2023,South,Food & Beverage,Energy Bars,Bob Smith,4,21.04,0.0,100.99,47.65,53.34,52.82,3.3
+ORD-10415,2023-11-03,11,4,2023,West,Clothing,T-Shirt,Bob Smith,27,23.32,0.1,680.01,348.98,331.03,48.68,3.4
+ORD-10582,2023-11-03,11,4,2023,South,Electronics,Tablet,Eva Martinez,2,499.29,0.05,1138.38,562.76,575.62,50.56,5.0
+ORD-10539,2023-11-04,11,4,2023,East,Sports,Yoga Mat,Alice Johnson,49,41.39,0.05,2312.05,1014.95,1297.1,56.1,4.5
+ORD-10171,2023-11-05,11,4,2023,East,Electronics,Smartphone,Carol White,3,890.78,0.1,2886.13,1523.78,1362.35,47.2,3.6
+ORD-10498,2023-11-05,11,4,2023,South,Home & Garden,Coffee Maker,David Brown,9,77.65,0.1,754.76,450.78,303.98,40.28,4.4
+ORD-10408,2023-11-05,11,4,2023,South,Electronics,Laptop,Bob Smith,1,1155.22,0.05,1316.95,692.3,624.65,47.43,4.5
+ORD-10618,2023-11-07,11,4,2023,North,Clothing,Jeans,Bob Smith,7,68.28,0.05,544.87,287.57,257.3,47.22,3.5
+ORD-10929,2023-11-07,11,4,2023,North,Sports,Yoga Mat,Carol White,3,37.28,0.0,134.21,62.67,71.54,53.3,4.0
+ORD-10304,2023-11-08,11,4,2023,South,Sports,Running Shoes,Carol White,1,95.21,0.2,91.4,65.67,25.73,28.15,5.0
+ORD-10725,2023-11-08,11,4,2023,East,Home & Garden,Coffee Maker,Alice Johnson,19,83.77,0.15,1623.46,869.4,754.06,46.45,5.0
+ORD-10297,2023-11-09,11,4,2023,South,Home & Garden,Coffee Maker,Bob Smith,35,74.95,0.15,2675.71,1589.08,1086.63,40.61,3.7
+ORD-10449,2023-11-10,11,4,2023,West,Food & Beverage,Coffee Beans,Carol White,20,19.09,0.1,412.34,201.32,211.02,51.18,3.4
+ORD-10492,2023-11-10,11,4,2023,East,Food & Beverage,Olive Oil,Eva Martinez,19,15.4,0.1,316.01,186.35,129.66,41.03,3.2
+ORD-10042,2023-11-11,11,4,2023,North,Clothing,T-Shirt,Alice Johnson,7,25.19,0.2,169.28,93.65,75.63,44.68,3.8
+ORD-10196,2023-11-11,11,4,2023,South,Home & Garden,Plant Pot,David Brown,9,17.75,0.2,153.36,102.52,50.84,33.15,5.0
+ORD-10059,2023-11-12,11,4,2023,West,Clothing,Dress,Eva Martinez,20,84.57,0.15,1725.23,1031.06,694.17,40.24,4.6
+ORD-10840,2023-11-12,11,4,2023,West,Home & Garden,Vacuum,Carol White,15,204.04,0.15,3121.81,1882.05,1239.76,39.71,4.1
+ORD-10893,2023-11-13,11,4,2023,West,Sports,Running Shoes,Eva Martinez,3,108.3,0.1,350.89,173.61,177.28,50.52,3.5
+ORD-10322,2023-11-14,11,4,2023,West,Sports,Yoga Mat,Alice Johnson,35,34.57,0.2,1161.55,704.51,457.04,39.35,4.0
+ORD-10906,2023-11-14,11,4,2023,East,Sports,Dumbbells,David Brown,24,95.09,0.15,2327.8,1311.25,1016.55,43.67,4.7
+ORD-10058,2023-11-14,11,4,2023,West,Home & Garden,Lamp,Carol White,36,44.92,0.05,1843.52,870.61,972.91,52.77,3.1
+ORD-10177,2023-11-15,11,4,2023,East,Electronics,Smartphone,David Brown,5,879.16,0.0,5274.96,2204.66,3070.3,58.21,3.1
+ORD-10960,2023-11-15,11,4,2023,East,Clothing,Dress,Carol White,24,79.29,0.15,1941.02,1028.27,912.75,47.02,4.6
+ORD-10320,2023-11-16,11,4,2023,North,Electronics,Headphones,Bob Smith,14,154.86,0.05,2471.57,1113.49,1358.08,54.95,5.0
+ORD-10180,2023-11-16,11,4,2023,East,Electronics,Headphones,Alice Johnson,7,169.28,0.0,1421.95,701.44,720.51,50.67,4.9
+ORD-10530,2023-11-17,11,4,2023,East,Food & Beverage,Olive Oil,Eva Martinez,7,15.99,0.15,114.17,70.78,43.39,38.0,2.1
+ORD-10796,2023-11-17,11,4,2023,North,Food & Beverage,Energy Bars,Alice Johnson,38,23.6,0.2,860.93,531.43,329.5,38.27,4.8
+ORD-10455,2023-11-18,11,4,2023,East,Sports,Yoga Mat,Carol White,14,37.91,0.05,605.04,338.95,266.09,43.98,4.1
+ORD-10788,2023-11-18,11,4,2023,North,Sports,Resistance Bands,Bob Smith,6,14.48,0.15,88.62,45.13,43.49,49.07,4.9
+ORD-10198,2023-11-18,11,4,2023,West,Food & Beverage,Green Tea,Alice Johnson,24,10.97,0.1,284.34,141.13,143.21,50.37,4.9
+ORD-10974,2023-11-19,11,4,2023,North,Sports,Dumbbells,Bob Smith,8,88.73,0.2,681.45,459.19,222.26,32.62,4.2
+ORD-10145,2023-11-20,11,4,2023,East,Food & Beverage,Energy Bars,Carol White,7,23.95,0.05,191.12,99.63,91.49,47.87,3.6
+ORD-10888,2023-11-21,11,4,2023,North,Clothing,Jeans,Alice Johnson,6,61.07,0.15,373.75,249.02,124.73,33.37,4.1
+ORD-10573,2023-11-21,11,4,2023,North,Food & Beverage,Coffee Beans,Eva Martinez,5,17.86,0.2,85.73,45.46,40.27,46.97,3.2
+ORD-10935,2023-11-21,11,4,2023,North,Clothing,T-Shirt,David Brown,28,24.8,0.05,791.62,418.62,373.0,47.12,3.7
+ORD-10366,2023-11-21,11,4,2023,East,Food & Beverage,Olive Oil,Alice Johnson,44,15.71,0.05,788.01,388.92,399.09,50.65,2.7
+ORD-10413,2023-11-22,11,4,2023,North,Clothing,Dress,Alice Johnson,3,90.63,0.0,326.27,149.24,177.03,54.26,3.4
+ORD-10001,2023-11-24,11,4,2023,North,Food & Beverage,Energy Bars,Alice Johnson,2,23.85,0.0,57.24,25.94,31.3,54.68,4.9
+ORD-10849,2023-11-26,11,4,2023,South,Food & Beverage,Protein Powder,Alice Johnson,3,43.85,0.05,149.97,78.64,71.33,47.56,4.0
+ORD-10227,2023-11-27,11,4,2023,South,Electronics,Smartphone,Eva Martinez,4,739.85,0.0,3551.28,1554.41,1996.87,56.23,3.2
+ORD-10801,2023-11-27,11,4,2023,East,Sports,Running Shoes,Alice Johnson,10,117.09,0.0,1405.08,728.65,676.43,48.14,3.2
+ORD-10616,2023-11-28,11,4,2023,West,Clothing,Jeans,Eva Martinez,36,59.74,0.15,2193.65,1152.19,1041.46,47.48,5.0
+ORD-10677,2023-11-29,11,4,2023,East,Home & Garden,Vacuum,Alice Johnson,12,213.66,0.2,2461.36,1549.08,912.28,37.06,2.4
+ORD-10478,2023-11-29,11,4,2023,West,Electronics,Headphones,Carol White,12,152.57,0.05,2087.16,933.47,1153.69,55.28,4.2
+ORD-10268,2023-11-29,11,4,2023,East,Food & Beverage,Energy Bars,Bob Smith,16,23.16,0.1,400.2,226.64,173.56,43.37,3.7
+ORD-10264,2023-11-29,11,4,2023,South,Electronics,Smart Watch,Alice Johnson,4,288.7,0.0,1385.76,679.26,706.5,50.98,3.2
+ORD-10489,2023-11-30,11,4,2023,North,Sports,Dumbbells,Bob Smith,39,77.35,0.0,3619.98,1643.33,1976.65,54.6,4.3
+ORD-10826,2023-12-01,12,4,2023,North,Electronics,Smart Watch,Carol White,14,318.06,0.15,4541.9,2770.1,1771.8,39.01,3.9
+ORD-10634,2023-12-01,12,4,2023,South,Sports,Dumbbells,Bob Smith,48,73.2,0.05,4005.5,2370.09,1635.41,40.83,4.8
+ORD-10553,2023-12-01,12,4,2023,East,Clothing,Jacket,Carol White,4,136.04,0.2,522.39,275.6,246.79,47.24,3.5
+ORD-10733,2023-12-02,12,4,2023,South,Clothing,T-Shirt,Eva Martinez,9,25.73,0.15,236.2,161.9,74.3,31.46,4.4
+ORD-10528,2023-12-02,12,4,2023,South,Sports,Water Bottle,Alice Johnson,27,18.98,0.15,522.71,260.94,261.77,50.08,4.9
+ORD-10798,2023-12-03,12,4,2023,West,Home & Garden,Lamp,Alice Johnson,6,46.39,0.05,317.31,184.65,132.66,41.81,5.0
+ORD-10921,2023-12-03,12,4,2023,East,Home & Garden,Plant Pot,Alice Johnson,35,21.4,0.2,719.04,427.17,291.87,40.59,4.3
+ORD-10218,2023-12-03,12,4,2023,West,Sports,Dumbbells,Bob Smith,5,86.51,0.15,441.2,219.47,221.73,50.26,3.1
+ORD-10429,2023-12-04,12,4,2023,East,Food & Beverage,Coffee Beans,Bob Smith,21,19.25,0.05,460.84,209.5,251.34,54.54,4.3
+ORD-10286,2023-12-04,12,4,2023,East,Electronics,Tablet,Carol White,10,558.99,0.05,6372.49,3039.93,3332.56,52.3,3.7
+ORD-10989,2023-12-04,12,4,2023,West,Home & Garden,Lamp,David Brown,48,43.26,0.05,2367.19,1146.5,1220.69,51.57,4.2
+ORD-10138,2023-12-04,12,4,2023,North,Food & Beverage,Energy Bars,Carol White,50,23.33,0.05,1329.81,724.88,604.93,45.49,3.5
+ORD-10738,2023-12-05,12,4,2023,North,Home & Garden,Coffee Maker,David Brown,9,78.27,0.2,676.25,471.42,204.83,30.29,4.5
+ORD-10990,2023-12-05,12,4,2023,East,Home & Garden,Vacuum,Alice Johnson,7,209.31,0.1,1582.38,785.88,796.5,50.34,3.0
+ORD-10262,2023-12-06,12,4,2023,North,Food & Beverage,Energy Bars,Carol White,42,22.22,0.2,895.91,574.43,321.48,35.88,2.9
+ORD-10022,2023-12-08,12,4,2023,South,Home & Garden,Lamp,Carol White,29,39.59,0.2,1102.19,677.73,424.46,38.51,3.7
+ORD-10398,2023-12-09,12,4,2023,North,Home & Garden,Vacuum,Eva Martinez,10,209.58,0.2,2011.97,1126.97,885.0,43.99,4.7
+ORD-10648,2023-12-09,12,4,2023,South,Electronics,Smartphone,Carol White,4,794.92,0.0,3815.62,1875.92,1939.7,50.84,3.6
+ORD-10329,2023-12-10,12,4,2023,West,Home & Garden,Coffee Maker,Alice Johnson,44,75.74,0.1,3599.16,2265.68,1333.48,37.05,3.9
+ORD-10352,2023-12-10,12,4,2023,West,Food & Beverage,Coffee Beans,Carol White,45,16.6,0.2,717.12,462.22,254.9,35.54,4.6
+ORD-10128,2023-12-11,12,4,2023,West,Electronics,Tablet,Eva Martinez,7,531.67,0.1,4019.43,2327.4,1692.03,42.1,3.5
+ORD-10795,2023-12-12,12,4,2023,West,Sports,Resistance Bands,Carol White,35,14.2,0.05,566.58,265.7,300.88,53.1,1.9
+ORD-10369,2023-12-12,12,4,2023,South,Food & Beverage,Protein Powder,David Brown,19,46.31,0.05,1003.07,472.87,530.2,52.86,4.6
+ORD-10347,2023-12-13,12,4,2023,West,Food & Beverage,Protein Powder,Carol White,25,46.33,0.1,1250.91,768.27,482.64,38.58,3.8
+ORD-10526,2023-12-14,12,4,2023,North,Clothing,Jacket,David Brown,15,129.11,0.2,1859.18,1155.28,703.9,37.86,4.4
+ORD-10066,2023-12-14,12,4,2023,West,Electronics,Smart Watch,Bob Smith,15,284.07,0.0,5113.26,2519.53,2593.73,50.73,4.1
+ORD-10808,2023-12-14,12,4,2023,West,Food & Beverage,Protein Powder,David Brown,33,45.67,0.15,1537.25,919.96,617.29,40.16,3.6
+ORD-10958,2023-12-14,12,4,2023,West,Food & Beverage,Coffee Beans,Carol White,25,17.29,0.2,414.96,249.87,165.09,39.78,3.8
+ORD-10312,2023-12-14,12,4,2023,South,Sports,Dumbbells,Eva Martinez,21,82.05,0.1,1860.89,992.7,868.19,46.65,3.6
+ORD-10149,2023-12-15,12,4,2023,West,Food & Beverage,Protein Powder,David Brown,42,46.83,0.0,2360.23,1311.38,1048.85,44.44,4.2
+ORD-10033,2023-12-15,12,4,2023,West,Clothing,Sneakers,Carol White,14,89.68,0.0,1506.62,773.19,733.43,48.68,4.5
+ORD-10985,2023-12-17,12,4,2023,East,Food & Beverage,Coffee Beans,Carol White,27,20.39,0.2,528.51,355.56,172.95,32.72,2.1
+ORD-10632,2023-12-19,12,4,2023,East,Clothing,T-Shirt,Alice Johnson,26,27.73,0.1,778.66,371.45,407.21,52.3,3.0
+ORD-10820,2023-12-19,12,4,2023,South,Sports,Dumbbells,Eva Martinez,3,76.09,0.1,246.53,159.06,87.47,35.48,5.0
+ORD-10981,2023-12-19,12,4,2023,East,Electronics,Smart Watch,Bob Smith,14,338.6,0.15,4835.21,2738.5,2096.71,43.36,4.6
+ORD-10693,2023-12-20,12,4,2023,East,Electronics,Tablet,Bob Smith,10,585.8,0.0,7029.6,2944.33,4085.27,58.12,4.9
+ORD-10570,2023-12-21,12,4,2023,West,Electronics,Smartphone,Alice Johnson,4,788.1,0.1,3404.59,1600.09,1804.5,53.0,5.0
+ORD-10363,2023-12-22,12,4,2023,North,Food & Beverage,Coffee Beans,Eva Martinez,12,18.92,0.1,245.2,128.32,116.88,47.67,4.2
+ORD-10379,2023-12-22,12,4,2023,East,Home & Garden,Blender,Carol White,33,57.9,0.0,2292.84,1007.16,1285.68,56.07,4.3
+ORD-10448,2023-12-23,12,4,2023,South,Electronics,Smart Watch,Carol White,2,282.62,0.1,610.46,362.27,248.19,40.66,4.1
+ORD-10784,2023-12-23,12,4,2023,East,Food & Beverage,Protein Powder,Bob Smith,5,45.63,0.1,246.4,142.06,104.34,42.35,3.6
+ORD-10193,2023-12-26,12,4,2023,West,Sports,Resistance Bands,Eva Martinez,40,15.26,0.05,695.86,349.62,346.24,49.76,5.0
+ORD-10483,2023-12-28,12,4,2023,West,Clothing,Dress,Eva Martinez,2,77.29,0.05,176.22,83.25,92.97,52.76,5.0
+ORD-10560,2023-12-28,12,4,2023,South,Electronics,Smartphone,Carol White,5,802.01,0.0,4812.06,2625.51,2186.55,45.44,4.6
+ORD-10118,2023-12-28,12,4,2023,South,Home & Garden,Blender,Alice Johnson,36,46.96,0.15,1724.37,876.8,847.57,49.15,4.2
+ORD-10551,2023-12-29,12,4,2023,West,Food & Beverage,Green Tea,David Brown,1,13.25,0.2,12.72,6.91,5.81,45.68,4.1
+ORD-10331,2023-12-31,12,4,2023,West,Electronics,Tablet,Bob Smith,10,499.18,0.05,5690.65,3061.67,2628.98,46.2,3.5
+ORD-10779,2024-01-01,1,1,2024,North,Electronics,Tablet,Alice Johnson,11,564.18,0.2,4220.07,4185.16,34.91,0.83,4.0
